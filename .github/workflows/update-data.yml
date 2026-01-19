@@ -1,40 +1,29 @@
-# GitHub Actions自动化配置
-# 每天自动更新价格和新闻数据
-
-name: Update Dashboard Data
-
-on:
-  schedule:
-    # 每天UTC时间00:00运行（北京时间8:00）
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # 允许手动触发
-
-jobs:
-  update-data:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout代码
-        uses: actions/checkout@v3
-      
-      - name: 设置Python环境
-        uses: actions/setup-python@v4
-        with:
           python-version: '3.11'
-      
-      - name: 安装依赖
+      - name: 安装Python依赖
         run: |
           cd python
           pip install -r requirements.txt
-      
-      - name: 运行更新脚本
+          pip install requests beautifulsoup4
+      - name: 运行数据更新脚本（启用API + 自动新闻）
+        env:
+          BESTBUY_API_KEY: ${{ secrets.BESTBUY_API_KEY }}
+          EBAY_APP_ID: ${{ secrets.EBAY_APP_ID }}
+          WALMART_API_KEY: ${{ secrets.WALMART_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          BING_NEWS_API_KEY: ${{ secrets.BING_NEWS_API_KEY }}
+          USE_AUTO_NEWS: ${{ secrets.USE_AUTO_NEWS }}
+          NEWS_PER_BRAND: 10
         run: |
           cd python
-          python generate_with_real_prices.py
-      
-      - name: 提交更新
+          python generate_with_api.py
+      - name: 提交更新的数据
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add data/products.json
-          git commit -m "Auto-update $(date)" || exit 0
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M:%S')"
           git push
+      - name: 通知完成
+        run: |
+          echo "✅ 数据更新完成: $(date)"
+          echo "文件大小: $(ls -lh data/products.json | awk '{print $5}')"
