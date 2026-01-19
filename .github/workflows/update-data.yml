@@ -1,0 +1,40 @@
+# GitHub Actions自动化配置
+# 每天自动更新价格和新闻数据
+
+name: Update Dashboard Data
+
+on:
+  schedule:
+    # 每天UTC时间00:00运行（北京时间8:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout代码
+        uses: actions/checkout@v3
+      
+      - name: 设置Python环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: 安装依赖
+        run: |
+          cd python
+          pip install -r requirements.txt
+      
+      - name: 运行更新脚本
+        run: |
+          cd python
+          python generate_with_real_prices.py
+      
+      - name: 提交更新
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add data/products.json
+          git commit -m "Auto-update $(date)" || exit 0
+          git push
