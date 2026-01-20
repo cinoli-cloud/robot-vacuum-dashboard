@@ -1,5 +1,5 @@
 # GitHub Actions自动化配置
-# 每天自动更新价格和新闻数据
+# 每天自动更新价格（使用Playwright爬虫）和新闻数据
 
 name: Update Dashboard Data
 
@@ -28,6 +28,17 @@ jobs:
           cd python
           pip install -r requirements.txt
 
+      - name: 安装Playwright浏览器
+        run: |
+          cd python
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: 运行官网价格爬虫（Playwright）
+        run: |
+          cd python
+          python playwright_official_price_scraper.py
+
       - name: 运行价格数据更新脚本
         run: |
           cd python
@@ -46,11 +57,12 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/products.json
+          git add data/products.json data/official_prices.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M:%S')"
           git push
 
       - name: 通知完成
         run: |
           echo "✅ 数据更新完成: $(date)"
-          echo "文件大小: $(ls -lh ../data/products.json | awk '{print $5}')"
+          echo "价格文件: $(ls -lh data/official_prices.json | awk '{print $5}')"
+          echo "数据文件: $(ls -lh data/products.json | awk '{print $5}')"
