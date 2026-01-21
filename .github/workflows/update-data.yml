@@ -23,5 +23,3 @@
           echo "✅ 数据更新完成: $(date)"
           echo "文件大小: $(ls -lh data/products.json | awk '{print $5}')"
 
-
-
