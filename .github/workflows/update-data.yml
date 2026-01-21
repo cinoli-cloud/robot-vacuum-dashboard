@@ -43,6 +43,12 @@ jobs:
           cd python
           python generate_with_real_prices.py
 
+      - name: 整合第三方平台价格（如果有）
+        run: |
+          cd python
+          python integrate_thirdparty_prices.py
+        continue-on-error: true
+
       - name: 整合官网价格到产品数据
         run: |
           cd python
