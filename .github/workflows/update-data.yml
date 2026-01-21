@@ -30,9 +30,8 @@ jobs:
 
       - name: 安装Playwright浏览器
         run: |
-          cd python
-          playwright install chromium
-          playwright install-deps chromium
+          pip install playwright
+          playwright install --with-deps chromium
 
       - name: 运行官网价格爬虫（Playwright）
         run: |
