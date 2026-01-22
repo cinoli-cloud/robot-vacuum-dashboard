@@ -1,0 +1,109 @@
+# GitHub Actions自动化配置
+# 每天自动更新价格（使用Playwright爬虫）和新闻数据
+
+name: Update Dashboard Data
+
+on:
+  schedule:
+    # 每天UTC时间00:00运行（北京时间8:00）
+    - cron: '0 0 * * *'
+
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout代码
+        uses: actions/checkout@v3
+
+      - name: 设置Python环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 安装Python依赖
+        run: |
+          cd python
+          pip install -r requirements.txt
+
+      - name: 安装Playwright
+        run: |
+          pip install playwright==1.40.0
+
+      - name: 设置Playwright缓存
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
+
+      - name: 安装Playwright浏览器
+        run: |
+          python -m playwright install chromium
+
+      - name: 安装系统依赖（Ubuntu）
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 \
+            libnspr4 \
+            libdbus-1-3 \
+            libatk1.0-0 \
+            libatk-bridge2.0-0 \
+            libcups2 \
+            libdrm2 \
+            libxkbcommon0 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxfixes3 \
+            libxrandr2 \
+            libgbm1 \
+            libpango-1.0-0 \
+            libcairo2 \
+            libasound2
+
+      - name: 运行官网价格爬虫（Playwright）
+        run: |
+          cd python
+          python playwright_official_price_scraper.py
+
+      - name: 运行价格数据更新脚本
+        run: |
+          cd python
+          python generate_with_real_prices.py
+
+      - name: 整合官网价格到产品数据
+        run: |
+          cd python
+          python integrate_official_prices.py
+
+      - name: 更新品牌新闻（自动爬虫）
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          BING_NEWS_API_KEY: ${{ secrets.BING_NEWS_API_KEY }}
+          NEWS_PER_BRAND: 10
+        run: |
+          cd python
+          python update_news_only.py
+
+      - name: 提交更新的数据
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/products.json || true
+          git add data/official_prices.json || true
+          git add data/thirdparty_prices.json || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+
+      - name: 通知完成
+        run: |
+          echo "✅ 数据更新完成: $(date)"
+          if [ -f data/official_prices.json ]; then
+            echo "官网价格: $(ls -lh data/official_prices.json | awk '{print $5}')"
+          fi
+          if [ -f data/thirdparty_prices.json ]; then
+            echo "第三方价格: $(ls -lh data/thirdparty_prices.json | awk '{print $5}')"
+          fi
+          echo "数据文件: $(ls -lh data/products.json | awk '{print $5}')"
