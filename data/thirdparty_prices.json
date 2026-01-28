@@ -1,117 +1,112 @@
 {
-  "last_update": "2026-01-21T20:58:49.888347",
-  "total_products": 9,
-  "total_platforms": 27,
-  "successful_prices": 18,
-  "success_rate": "66.7%",
+  "last_update": "2026-01-28T19:52:43.072156",
+  "total_products": 8,
+  "successful_prices": 8,
+  "success_rate": "50.0%",
   "products": [
     {
       "brand": "Roborock",
       "name": "Saros Z70",
-      "keyword": "roborock saros z70",
       "prices": {
-        "bestbuy": 129.0,
-        "ebay": 159.0,
-        "walmart": null
+        "bestbuy": 1299.99,
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/roborock-saros-z70-robot-vacuum-mop-omnigrip-arm-22000pa-suction-3-14-ultra-slim-obstacle-avoidance-adaptilift-chassis-silver/JJ8F5PCSLL/sku/6630910",
+        "ebay": "https://www.ebay.com/itm/366117234566"
+      },
+      "success_count": 1
     },
     {
       "brand": "Roborock",
-      "name": "Saros 10R",
-      "keyword": "roborock saros 10r",
+      "name": "Saros 10",
       "prices": {
-        "bestbuy": 129.0,
-        "ebay": 159.0,
-        "walmart": null
+        "bestbuy": 1099.99,
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/roborock-saros-10-ultra-thin-self-lifting-robot-vacuum-and-mop--22000-pa-suction-hyper-force-and-multi-fuction-dock-white/JJ8F5PCPP3/sku/6615280",
+        "ebay": "https://www.ebay.com.sg/itm/317760941981"
+      },
+      "success_count": 1
+    },
+    {
+      "brand": "Roborock",
+      "name": "Qrevo Curv 2 Flow",
+      "prices": {
+        "bestbuy": 999.99,
+        "ebay": null
+      },
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/roborock-qrevo-curv-2-flow-robot-vacuum-and-mop-white/JJ8F5PCTK2/sku/6668432",
+        "ebay": ""
+      },
+      "success_count": 1
     },
     {
       "brand": "Roborock",
       "name": "Qrevo Curv",
-      "keyword": "roborock qrevo curv",
       "prices": {
         "bestbuy": 799.99,
-        "ebay": 429.99,
-        "walmart": null
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
-    },
-    {
-      "brand": "Roborock",
-      "name": "S8 MaxV Ultra",
-      "keyword": "roborock s8 maxv ultra",
-      "prices": {
-        "bestbuy": 899.99,
-        "ebay": 499.0,
-        "walmart": null
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/roborock-qrevo-curv-robot-vacuum-mop-w-self-washing-emptying-dockbuilt-in-voice-assistzero-tangling-brushscheduled-clean-white/JJ8F5PCP72/sku/6603805",
+        "ebay": "https://www.ebay.com.sg/itm/376439909063"
       },
-      "success_count": 2,
-      "total_platforms": 3
-    },
-    {
-      "brand": "Roborock",
-      "name": "Q5 Max",
-      "keyword": "roborock q5 max",
-      "prices": {
-        "bestbuy": 169.99,
-        "ebay": 199.99,
-        "walmart": null
-      },
-      "success_count": 2,
-      "total_platforms": 3
+      "success_count": 1
     },
     {
       "brand": "Eufy",
-      "name": "Omni S2",
-      "keyword": "eufy omni s2",
+      "name": "Omni S1 Pro",
       "prices": {
-        "bestbuy": 549.99,
-        "ebay": 150.0,
-        "walmart": null
+        "bestbuy": 699.99,
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/eufy-s1-pro-omni-wi-fi-connected-robot-vacuum-mop-with-self-washing-and-self-drying-auto-empty-station-black/JJ8586W85Z",
+        "ebay": ""
+      },
+      "success_count": 1
     },
     {
       "brand": "Eufy",
-      "name": "X10 Pro",
-      "keyword": "eufy x10 pro omni",
+      "name": "X10 Pro Omni",
       "prices": {
-        "bestbuy": 549.99,
-        "ebay": 799.99,
-        "walmart": null
+        "bestbuy": 299.99,
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/eufy-x10-pro-omni-robot-vacuum-and-mop-combo-auto-mop-washing-auto-drying-self-emptying-black/JJ858RYGJX",
+        "ebay": ""
+      },
+      "success_count": 1
     },
     {
       "brand": "Eufy",
-      "name": "L60",
-      "keyword": "eufy l60",
+      "name": "Omni E28",
       "prices": {
-        "bestbuy": 249.99,
-        "ebay": 299.99,
-        "walmart": null
+        "bestbuy": 799.99,
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/eufy-robot-vacuum-omni-e28-and-roller-mop-with-faster-self-cleaning-detangle-brush-portable-carpet-cleaner-edge-cleaning-black/JJ858RYRGY",
+        "ebay": ""
+      },
+      "success_count": 1
     },
     {
       "brand": "Eufy",
-      "name": "C20",
-      "keyword": "eufy c20",
+      "name": "Omni E25",
       "prices": {
-        "bestbuy": 349.99,
-        "ebay": 150.0,
-        "walmart": null
+        "bestbuy": 649.99,
+        "ebay": null
       },
-      "success_count": 2,
-      "total_platforms": 3
+      "urls": {
+        "bestbuy": "https://www.bestbuy.com/product/eufy-e25-omni-robot-vacuum-and-mop-combohydrojet-system-20000pa-turbo-suction-zero-tangle-design-black/JJ858R3HLL",
+        "ebay": ""
+      },
+      "success_count": 1
     }
   ]
 }
