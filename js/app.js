@@ -211,9 +211,9 @@ function formatPriceCell(channel) {
         else if (channel.change < 0) priceClass += ' price-down';
     }
 
-    // Check confidence level - Only VERIFIED or VERIFIED_SALE are accurate
+    // Check confidence level - VERIFIED, VERIFIED_SALE, and VERIFIED_PLAYWRIGHT are accurate
     const confidence = channel.confidence || 'ESTIMATED';
-    const isVerified = confidence === 'VERIFIED' || confidence === 'VERIFIED_SALE';
+    const isVerified = confidence === 'VERIFIED' || confidence === 'VERIFIED_SALE' || confidence === 'VERIFIED_PLAYWRIGHT';
 
     // Add confidence indicator for all non-verified prices
     let confidenceTag = '';
@@ -489,6 +489,13 @@ function loadNews(newsData) {
         container.innerHTML = '<div class="col-12 text-center">No news found for this brand.</div>';
         return;
     }
+
+    // Sort by date (newest first)
+    filteredNews.sort((a, b) => {
+        const dateA = new Date(a.date);
+        const dateB = new Date(b.date);
+        return dateB - dateA;  // 降序排列（最新的在前）
+    });
 
     filteredNews.forEach(newsItem => {
         const col = document.createElement('div');
