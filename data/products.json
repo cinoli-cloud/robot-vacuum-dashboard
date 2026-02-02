@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-01T02:40:25.074686",
+  "lastUpdate": "2026-02-02T02:30:44.764367",
   "products": [
     {
       "brand": "Roborock",
@@ -34,12 +34,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
+          "price": 1699.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Saros%20Z70",
+          "price_source": "Based on official $1999.99 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 1639.99,
@@ -90,16 +90,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
-          "change": 3.8,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Saros%2010R",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": 2.6,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Saros+10R",
           "price_source": "No data available",
@@ -117,7 +117,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 2.6,
+          "change": 0,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-saros-10",
           "price_source": "No data available",
@@ -133,7 +133,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": -3.8,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Saros-10",
           "price_source": "No data available",
@@ -149,7 +149,7 @@
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": -0.7,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Saros+10",
           "price_source": "No data available",
@@ -173,7 +173,7 @@
       "channels": {
         "official": {
           "price": 849.99,
-          "change": -3.0,
+          "change": 0,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-qrevo-curv-2-flow",
           "price_source": "Official CES 2026 announcement",
@@ -205,7 +205,7 @@
         },
         "ebay": {
           "price": 696.99,
-          "change": 0.6,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Qrevo+Curv+2+Flow",
           "price_source": "Based on official $849.99 × 0.82",
@@ -295,7 +295,7 @@
         },
         "walmart": {
           "price": 736.0,
-          "change": 1.9,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Qrevo-Curv",
           "price_source": "Based on official $800.0 × 0.92",
@@ -335,7 +335,7 @@
       "channels": {
         "official": {
           "price": 899.0,
-          "change": 0,
+          "change": -1.7,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-qrevo-slim",
           "price_source": "No data available",
@@ -358,12 +358,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 764.15,
-          "change": 3.5,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Qrevo%20Slim",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.18,
@@ -385,7 +385,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": -2.0,
+          "change": 0,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-qrevo-s5v",
           "price_source": "No data available",
@@ -435,7 +435,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 0,
+          "change": -2.2,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-qrevo-plus-vacuum",
           "price_source": "No data available",
@@ -458,12 +458,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Qrevo%20Plus",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -535,7 +535,7 @@
       "channels": {
         "official": {
           "price": 800.0,
-          "change": 0,
+          "change": -0.9,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-s8-max-ultra",
           "price_source": "Official website sale",
@@ -558,16 +558,16 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
+          "price": 680.0,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20S8%20Max%20Ultra",
+          "price_source": "Based on official $800.0 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 656.0,
-          "change": 0,
+          "change": 0.7,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+S8+Max+Ultra",
           "price_source": "Based on official $800.0 × 0.82",
@@ -601,7 +601,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": -3.5,
+          "change": -0.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-S8-/-S8+",
           "price_source": "No data available",
@@ -635,7 +635,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 0,
+          "change": -0.5,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-q10-s5-plus",
           "price_source": "No data available",
@@ -643,7 +643,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": 0,
+          "change": -3.7,
           "available": true,
           "url": "https://www.amazon.com/s?k=Roborock+Q10+S5+",
           "price_source": "No data available",
@@ -651,7 +651,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 2.8,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Q10-S5+",
           "price_source": "No data available",
@@ -667,7 +667,7 @@
         },
         "ebay": {
           "price": 655.18,
-          "change": 1.5,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Q10+S5+",
           "price_source": "No data available",
@@ -685,7 +685,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 0,
+          "change": 1.4,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-q5-max-plus",
           "price_source": "No data available",
@@ -701,23 +701,23 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": -3.9,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Q5-Max+",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Q5%20Max+",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
-          "change": 2.9,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Q5+Max+",
           "price_source": "No data available",
@@ -751,7 +751,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 0,
+          "change": -3.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Q5-DuoRoller+",
           "price_source": "No data available",
@@ -767,7 +767,7 @@
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": 2.9,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Q5+DuoRoller+",
           "price_source": "No data available",
@@ -809,7 +809,7 @@
         },
         "costco": {
           "price": 4674.15,
-          "change": 0.9,
+          "change": 0,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20X11%20OmniCyclone",
           "price_source": "No data available",
@@ -817,7 +817,7 @@
         },
         "ebay": {
           "price": 4509.18,
-          "change": 0,
+          "change": -3.8,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Ecovacs+ECOVACS+DEEBOT+X11+OmniCyclone",
           "price_source": "No data available",
@@ -851,7 +851,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 3.0,
+          "change": -1.9,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-X11-PRO-Omni",
           "price_source": "No data available",
@@ -901,19 +901,19 @@
         },
         "walmart": {
           "price": 1011.08,
-          "change": 0,
+          "change": -1.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-X8-PRO-Omni",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 934.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20X8%20PRO%20Omni",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 901.18,
@@ -951,7 +951,7 @@
         },
         "walmart": {
           "price": 1011.08,
-          "change": 3.0,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-T50-PRO-Omni",
           "price_source": "No data available",
@@ -1001,7 +1001,7 @@
         },
         "walmart": {
           "price": 2759.08,
-          "change": -2.8,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-T80-Omni",
           "price_source": "No data available",
@@ -1017,7 +1017,7 @@
         },
         "ebay": {
           "price": 2459.18,
-          "change": 3.2,
+          "change": 2.7,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Ecovacs+ECOVACS+DEEBOT+T80+Omni",
           "price_source": "No data available",
@@ -1058,12 +1058,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 1614.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20T30%20PRO%20Omni",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 1557.18,
@@ -1093,7 +1093,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": -1.4,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Ecovacs+ECOVACS+DEEBOT+T30C+OMNI",
           "price_source": "No data available",
@@ -1108,16 +1108,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 679.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20T30C%20OMNI",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 655.18,
-          "change": -1.3,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Ecovacs+ECOVACS+DEEBOT+T30C+OMNI",
           "price_source": "No data available",
@@ -1135,7 +1135,7 @@
       "channels": {
         "official": {
           "price": 899.0,
-          "change": -3.1,
+          "change": -2.3,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-n20e",
           "price_source": "No data available",
@@ -1143,7 +1143,7 @@
         },
         "amazon": {
           "price": 845.06,
-          "change": 0,
+          "change": 0.5,
           "available": true,
           "url": "https://www.amazon.com/s?k=Ecovacs+ECOVACS+Deebot+N20e",
           "price_source": "No data available",
@@ -1158,12 +1158,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 764.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20Deebot%20N20e",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.18,
@@ -1185,7 +1185,7 @@
       "channels": {
         "official": {
           "price": 899.0,
-          "change": 0,
+          "change": -3.9,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-n20e-plus",
           "price_source": "No data available",
@@ -1208,16 +1208,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 764.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20Deebot%20N20e%20Plus",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.18,
-          "change": -3.8,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Ecovacs+ECOVACS+Deebot+N20e+Plus",
           "price_source": "No data available",
@@ -1251,19 +1251,19 @@
         },
         "walmart": {
           "price": 827.08,
-          "change": 0,
+          "change": -0.5,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-N30-OMNI",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 764.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20N30%20OMNI",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 737.18,
@@ -1285,7 +1285,7 @@
       "channels": {
         "official": {
           "price": 899.0,
-          "change": 0,
+          "change": -3.2,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-n30-pro-omni",
           "price_source": "No data available",
@@ -1343,7 +1343,7 @@
         },
         "amazon": {
           "price": 1973.06,
-          "change": 3.5,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Narwal+Flow+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1351,7 +1351,7 @@
         },
         "walmart": {
           "price": 1931.08,
-          "change": -1.5,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Narwal-Flow-Robot-Vacuum-&-Mop",
           "price_source": "No data available",
@@ -1367,7 +1367,7 @@
         },
         "ebay": {
           "price": 1721.18,
-          "change": 0,
+          "change": 2.4,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Narwal+Flow+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1435,7 +1435,7 @@
       "channels": {
         "official": {
           "price": 649.99,
-          "change": -3.4,
+          "change": 3.2,
           "available": true,
           "url": "https://www.narwal.com/products/narwal-freo-z-ultra-robot-vacuum-mop",
           "price_source": "No data available",
@@ -1451,19 +1451,19 @@
         },
         "walmart": {
           "price": 597.99,
-          "change": 1.2,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Narwal-Freo-Z-Ultra-Robot-Vacuum-&-Mop",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 552.49,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20Z%20Ultra%20Robot%20Vacuum%20&%20Mop",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 532.99,
@@ -1485,7 +1485,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": -2.2,
+          "change": 0,
           "available": true,
           "url": "https://www.narwal.com/products/narwal-freo-z10-robot-vacuum-mop",
           "price_source": "No data available",
@@ -1517,7 +1517,7 @@
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": -1.2,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Narwal+Freo+Z10+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1567,7 +1567,7 @@
         },
         "ebay": {
           "price": 573.99,
-          "change": 0,
+          "change": 1.2,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Narwal+Freo+X10+Pro+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1608,12 +1608,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
-          "change": -1.5,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20X%20Ultra%20Robot%20Vacuum%20&%20Mop",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -1635,7 +1635,7 @@
       "channels": {
         "official": {
           "price": 699.99,
-          "change": 2.6,
+          "change": 0,
           "available": true,
           "url": "https://us.narwal.com/products/narwal-freo-pro-robot-vacuum-mop",
           "price_source": "No data available",
@@ -1651,19 +1651,19 @@
         },
         "walmart": {
           "price": 643.99,
-          "change": 3.9,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Narwal-Freo-Pro-Robot-Vacuum-&-Mop",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 594.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20Pro%20Robot%20Vacuum%20&%20Mop",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 573.99,
@@ -1685,7 +1685,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 0,
+          "change": -3.7,
           "available": true,
           "url": "https://www.narwal.com/products/narwal-freo-s-robot-vacuum-and-mop",
           "price_source": "No data available",
@@ -1693,7 +1693,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": 0,
+          "change": 1.7,
           "available": true,
           "url": "https://www.amazon.com/s?k=Narwal+Freo+S+Robot+Vacuum+and+Mop",
           "price_source": "No data available",
@@ -1709,7 +1709,7 @@
         },
         "costco": {
           "price": 679.15,
-          "change": -1.1,
+          "change": 0,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20S%20Robot%20Vacuum%20and%20Mop",
           "price_source": "No data available",
@@ -1743,7 +1743,7 @@
         },
         "amazon": {
           "price": 1221.06,
-          "change": 0,
+          "change": -3.7,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+PowerDetect+ThermaCharged+Robot+Vacuum+&+Mop+2-in-1",
           "price_source": "No data available",
@@ -1751,7 +1751,7 @@
         },
         "walmart": {
           "price": 1195.08,
-          "change": -2.4,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-PowerDetect-ThermaCharged-Robot-Vacuum-&-Mop-2-in-1",
           "price_source": "No data available",
@@ -1759,7 +1759,7 @@
         },
         "costco": {
           "price": 1104.15,
-          "change": 2.2,
+          "change": 0,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20PowerDetect%20ThermaCharged%20Robot%20Vacuum%20&%20Mop%202-in-1",
           "price_source": "No data available",
@@ -1767,7 +1767,7 @@
         },
         "ebay": {
           "price": 1065.18,
-          "change": 0,
+          "change": 1.1,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+PowerDetect+ThermaCharged+Robot+Vacuum+&+Mop+2-in-1",
           "price_source": "No data available",
@@ -1785,7 +1785,7 @@
       "channels": {
         "official": {
           "price": 999.99,
-          "change": -2.4,
+          "change": 3.4,
           "available": true,
           "url": "https://www.sharkninja.com/shark-powerdetect-2-in-1-robot-vacuum-and-mop-with-nevertouch-pro-base/RV2820ZE.html",
           "price_source": "No data available",
@@ -1808,16 +1808,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 849.99,
+          "change": -1.8,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20PowerDetect%202-in-1%20Robot%20Vacuum%20and%20Mop%20with%20NeverTouch%20Pro%20Base",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 819.99,
-          "change": -2.6,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+PowerDetect+2-in-1+Robot+Vacuum+and+Mop+with+NeverTouch+Pro+Base",
           "price_source": "No data available",
@@ -1835,7 +1835,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 1.5,
+          "change": 1.3,
           "available": true,
           "url": "https://www.sharkclean.com/products/shark-powerdetect-2-in-1-robot-vacuum-and-mop-with-nevertouch-base-zidRV2820YECA",
           "price_source": "No data available",
@@ -1851,7 +1851,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 0,
+          "change": 3.3,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-PowerDetect-2-in-1-Robot-Vacuum-and-Mop-with-NeverTouch-Base",
           "price_source": "No data available",
@@ -1867,7 +1867,7 @@
         },
         "ebay": {
           "price": 655.18,
-          "change": 2.6,
+          "change": 3.5,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+PowerDetect+2-in-1+Robot+Vacuum+and+Mop+with+NeverTouch+Base",
           "price_source": "No data available",
@@ -1893,7 +1893,7 @@
         },
         "amazon": {
           "price": 751.99,
-          "change": 0,
+          "change": -0.5,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+Stratos+NeverTouch+2-in-1+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1908,16 +1908,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 679.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20Stratos%20NeverTouch%202-in-1%20Robot%20Vacuum%20&%20Mop",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 655.99,
-          "change": 3.9,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+Stratos+NeverTouch+2-in-1+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1951,7 +1951,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 0,
+          "change": 1.2,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-Matrix-Plus-2-in-1-Self-Empty-Robot-Vacuum-and-Mop",
           "price_source": "No data available",
@@ -2058,16 +2058,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20PowerDetect%20Self-Empty%20Robot%20Vacuum",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": 2.6,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+PowerDetect+Self-Empty+Robot+Vacuum",
           "price_source": "No data available",
@@ -2093,7 +2093,7 @@
         },
         "amazon": {
           "price": 281.99,
-          "change": 3.7,
+          "change": 2.7,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+Navigator+Robot+Vacuum",
           "price_source": "No data available",
@@ -2101,7 +2101,7 @@
         },
         "walmart": {
           "price": 275.99,
-          "change": 0,
+          "change": -4.0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-Navigator-Robot-Vacuum",
           "price_source": "No data available",
@@ -2158,12 +2158,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 254.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20IQ%20Robot%20Vacuum",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 245.99,
@@ -2185,7 +2185,7 @@
       "channels": {
         "official": {
           "price": 179.99,
-          "change": 3.9,
+          "change": 0,
           "available": true,
           "url": "https://www.sharkclean.com/robot-vacuums",
           "price_source": "No data available",
@@ -2193,7 +2193,7 @@
         },
         "amazon": {
           "price": 169.19,
-          "change": 0,
+          "change": 3.3,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+ION+Robot+Vacuum+R75",
           "price_source": "No data available",
@@ -2208,12 +2208,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 152.99,
+          "change": -2.9,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20ION%20Robot%20Vacuum%20R75",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 147.59,
@@ -2267,7 +2267,7 @@
         },
         "ebay": {
           "price": 1311.99,
-          "change": 0,
+          "change": -2.5,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Eufy+Omni+S2",
           "price_source": "Based on official $1599.99 × 0.82",
@@ -2293,7 +2293,7 @@
         },
         "amazon": {
           "price": 700.0,
-          "change": 3.4,
+          "change": 2.6,
           "available": true,
           "url": "https://www.amazon.com/s?k=Eufy+Omni+S1+Pro",
           "price_source": "CNET",
@@ -2308,12 +2308,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 1274.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20Omni%20S1%20Pro",
-          "price_source": "Based on official $1499.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 1229.99,
@@ -2341,7 +2341,7 @@
       "channels": {
         "official": {
           "price": 799.99,
-          "change": -0.8,
+          "change": 0,
           "available": true,
           "url": "https://www.eufy.com/products/t2351111",
           "price_source": "Official website",
@@ -2364,12 +2364,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
+          "price": 679.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20X10%20Pro%20Omni",
+          "price_source": "Based on official $799.99 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 655.99,
@@ -2405,7 +2405,7 @@
         },
         "amazon": {
           "price": 700.0,
-          "change": 0,
+          "change": -1.2,
           "available": true,
           "url": "https://www.amazon.com/s?k=Eufy+Omni+E28",
           "price_source": "CNET Best for spot cleaning",
@@ -2429,7 +2429,7 @@
         },
         "ebay": {
           "price": 737.99,
-          "change": 0,
+          "change": -1.1,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Eufy+Omni+E28",
           "price_source": "Based on official $899.99 × 0.82",
@@ -2453,7 +2453,7 @@
       "channels": {
         "official": {
           "price": 549.99,
-          "change": 3.2,
+          "change": 1.7,
           "available": true,
           "url": "https://www.eufy.com/products/t2277111",
           "price_source": "Official + CNET tested",
@@ -2461,7 +2461,7 @@
         },
         "amazon": {
           "price": 516.99,
-          "change": 2.0,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Eufy+E20+3-in-1",
           "price_source": "Based on official $549.99 × 0.94",
@@ -2469,7 +2469,7 @@
         },
         "walmart": {
           "price": 505.99,
-          "change": 2.1,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Eufy-E20-3-in-1",
           "price_source": "Based on official $549.99 × 0.92",
@@ -2485,7 +2485,7 @@
         },
         "ebay": {
           "price": 450.99,
-          "change": 2.7,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Eufy+E20+3-in-1",
           "price_source": "Based on official $549.99 × 0.82",
@@ -2519,19 +2519,19 @@
         },
         "walmart": {
           "price": 150.0,
-          "change": 0,
+          "change": 3.1,
           "available": true,
           "url": "https://www.walmart.com/search?q=Eufy-RoboVac-25C",
           "price_source": "CNET",
           "confidence": "VERIFIED_SALE"
         },
         "costco": {
-          "price": 254.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20RoboVac%2025C",
-          "price_source": "Based on official $299.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 245.99,
@@ -2561,7 +2561,7 @@
         },
         "amazon": {
           "price": 360.0,
-          "change": 4.0,
+          "change": -2.8,
           "available": true,
           "url": "https://www.amazon.com/s?k=iRobot+Roomba+Plus+405+Combo",
           "price_source": "Official + CNET deal (save $440)",
@@ -2569,19 +2569,19 @@
         },
         "walmart": {
           "price": 735.99,
-          "change": 0,
+          "change": 1.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=iRobot-Roomba-Plus-405-Combo",
           "price_source": "Based on official $799.99 × 0.92",
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 679.99,
-          "change": 3.7,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=iRobot%20Roomba%20Plus%20405%20Combo",
-          "price_source": "Based on official $799.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.99,
@@ -2611,7 +2611,7 @@
         },
         "amazon": {
           "price": 203.14,
-          "change": 0,
+          "change": 2.1,
           "available": true,
           "url": "https://www.amazon.com/s?k=iRobot+Roomba+205+DustCompactor+Combo",
           "price_source": "Official + CNET Editors' Choice",
@@ -2661,7 +2661,7 @@
         },
         "amazon": {
           "price": 564.12,
-          "change": 3.2,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=iRobot+Roomba+Combo+j9+",
           "price_source": "Official + earlier search data",
@@ -2669,19 +2669,19 @@
         },
         "walmart": {
           "price": 827.99,
-          "change": 0,
+          "change": 1.3,
           "available": true,
           "url": "https://www.walmart.com/search?q=iRobot-Roomba-Combo-j9+",
           "price_source": "Based on official $899.99 × 0.92",
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 764.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=iRobot%20Roomba%20Combo%20j9+",
-          "price_source": "Based on official $899.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.99,
@@ -2726,12 +2726,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 679.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=iRobot%20Roomba%20Combo%20j7+",
-          "price_source": "Based on official $799.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.99,
@@ -2776,12 +2776,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 849.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Dyson%20360%20Vis%20Nav",
-          "price_source": "Based on official $999.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 819.99,
@@ -2797,7 +2797,6 @@
   "priceHistory": {
     "Roborock": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -2827,45 +2826,45 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        886.74,
-        871.48,
-        855.79,
-        897.21,
-        886.81,
-        800.86,
-        810.34,
-        804.92,
-        783.73,
-        787.47,
-        802.32,
-        867.34,
-        861.31,
-        849.72,
-        860.64,
-        847.33,
-        852.2,
-        867.36,
-        847.57,
-        859.1,
-        858.83,
-        857.81,
-        838.88,
-        811.77,
+        893.46,
+        880.63,
+        901.07,
+        904.36,
+        891.34,
+        831.38,
+        822.56,
+        812.8,
+        810.42,
+        837.75,
+        844.74,
+        871.68,
+        878.79,
+        887.6,
+        862.57,
+        866.82,
+        892.51,
+        894.32,
+        891.05,
+        867.31,
+        868.07,
+        851.3,
+        827.77,
+        855.33,
+        835.39,
+        836.72,
+        838.96,
+        856.59,
+        814.31,
         850.98,
-        834.19,
-        821.73,
-        822.63,
-        803.11,
-        787.82,
-        847.59
+        897.03
       ]
     },
     "Ecovacs": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -2895,45 +2894,45 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        1596.42,
-        1560.01,
-        1560.47,
-        1613.87,
-        1576.62,
-        1439.46,
-        1435.05,
-        1422.82,
-        1408.05,
-        1406.44,
-        1466.33,
-        1571.67,
-        1515.49,
-        1547.23,
-        1549.61,
-        1489.94,
-        1511.11,
-        1550.94,
-        1576.95,
-        1528.88,
-        1558.74,
-        1556.84,
-        1524.81,
-        1451.82,
-        1491.02,
-        1513.99,
-        1460.47,
-        1468.14,
-        1493.73,
-        1448.2,
-        1491.91
+        1577.7,
+        1536.43,
+        1613.21,
+        1558.32,
+        1557.28,
+        1432.22,
+        1454.11,
+        1420.85,
+        1401.0,
+        1434.11,
+        1439.79,
+        1528.46,
+        1526.0,
+        1513.01,
+        1506.26,
+        1505.25,
+        1563.12,
+        1548.19,
+        1510.75,
+        1514.97,
+        1513.05,
+        1494.28,
+        1443.68,
+        1518.7,
+        1485.17,
+        1482.22,
+        1473.43,
+        1470.44,
+        1418.69,
+        1498.24,
+        1590.65
       ]
     },
     "Narwal": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -2963,45 +2962,45 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        947.6,
-        910.92,
-        915.78,
-        935.04,
-        924.9,
-        857.9,
-        854.85,
-        857.28,
-        846.47,
-        837.34,
-        858.05,
-        916.67,
-        903.75,
-        925.87,
-        923.12,
-        877.96,
-        901.41,
-        929.79,
-        927.17,
-        916.69,
-        902.38,
-        908.37,
-        889.92,
-        863.89,
-        895.04,
-        891.74,
-        884.11,
-        891.18,
-        872.19,
-        859.67,
-        914.74
+        892.3,
+        918.67,
+        941.48,
+        921.58,
+        908.51,
+        854.24,
+        840.69,
+        823.78,
+        827.59,
+        853.94,
+        856.8,
+        895.31,
+        895.03,
+        902.93,
+        897.53,
+        892.57,
+        921.21,
+        909.01,
+        898.84,
+        888.51,
+        895.55,
+        879.76,
+        858.2,
+        879.84,
+        876.84,
+        863.52,
+        877.38,
+        875.89,
+        842.34,
+        891.8,
+        927.12
       ]
     },
     "Shark": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -3031,45 +3030,45 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        687.03,
-        670.59,
-        667.87,
-        691.18,
-        675.84,
-        627.99,
-        624.28,
-        616.78,
-        598.88,
-        616.26,
-        627.66,
-        674.4,
-        665.17,
-        656.03,
-        671.88,
-        666.15,
-        651.69,
-        677.31,
-        679.48,
-        655.38,
-        662.33,
-        667.2,
-        639.88,
-        633.42,
-        631.89,
-        640.52,
-        644.86,
-        640.34,
-        647.66,
-        614.39,
-        647.76
+        670.21,
+        676.35,
+        696.07,
+        680.04,
+        672.42,
+        624.16,
+        621.83,
+        608.74,
+        603.85,
+        621.79,
+        620.07,
+        676.41,
+        666.25,
+        680.03,
+        653.8,
+        639.2,
+        682.73,
+        671.52,
+        665.03,
+        663.38,
+        671.43,
+        646.2,
+        630.64,
+        652.64,
+        644.06,
+        648.38,
+        631.68,
+        637.67,
+        623.72,
+        640.3,
+        672.49
       ]
     },
     "Eufy": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -3099,45 +3098,45 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        881.54,
-        857.5,
-        876.37,
-        875.95,
-        869.86,
-        799.24,
-        798.68,
-        788.46,
-        789.78,
-        785.79,
-        799.37,
-        844.9,
-        862.15,
-        849.82,
-        865.11,
-        835.82,
-        837.02,
-        856.76,
-        860.71,
-        840.3,
-        829.52,
-        844.82,
-        822.98,
-        814.17,
-        833.05,
-        825.2,
-        821.52,
-        807.4,
-        818.74,
-        813.15,
-        832.66
+        858.87,
+        877.04,
+        887.14,
+        862.72,
+        864.39,
+        784.67,
+        802.56,
+        773.37,
+        784.52,
+        805.22,
+        801.27,
+        843.28,
+        847.49,
+        865.52,
+        829.0,
+        831.38,
+        846.81,
+        858.63,
+        849.1,
+        845.44,
+        850.87,
+        839.58,
+        805.11,
+        823.68,
+        821.56,
+        819.3,
+        820.77,
+        823.06,
+        799.17,
+        829.07,
+        848.76
       ]
     },
     "iRobot": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -3167,45 +3166,45 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        615.31,
-        595.45,
-        605.21,
-        618.89,
-        610.2,
-        558.91,
-        558.74,
-        551.49,
-        545.21,
-        546.04,
-        555.98,
-        598.84,
-        608.19,
-        596.59,
-        598.13,
-        593.05,
-        600.66,
-        598.48,
-        597.88,
-        593.21,
-        599.17,
-        584.5,
-        585.44,
-        552.56,
-        585.09,
-        577.17,
-        571.67,
-        568.85,
-        556.82,
-        571.75,
-        592.3
+        582.77,
+        584.36,
+        594.44,
+        597.83,
+        587.75,
+        544.79,
+        549.3,
+        526.46,
+        530.2,
+        540.39,
+        535.71,
+        580.38,
+        575.5,
+        573.55,
+        551.33,
+        553.61,
+        577.39,
+        576.29,
+        572.39,
+        579.62,
+        565.81,
+        567.4,
+        538.94,
+        552.27,
+        553.33,
+        548.21,
+        549.65,
+        553.71,
+        536.41,
+        576.16,
+        588.47
       ]
     },
     "Dyson": {
       "dates": [
-        "2026-01-02",
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
@@ -3235,221 +3234,222 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ],
       "prices": [
-        830.21,
-        820.58,
-        803.26,
-        825.27,
-        816.98,
-        748.71,
-        759.86,
-        760.08,
-        741.56,
-        752.42,
-        760.07,
-        819.42,
-        811.8,
-        794.75,
-        820.24,
-        791.71,
-        789.86,
-        825.58,
-        811.06,
-        813.92,
-        801.05,
-        802.77,
-        782.06,
-        763.43,
-        792.95,
-        792.35,
-        774.69,
-        773.84,
-        790.86,
-        764.04,
-        806.14
+        825.51,
+        798.83,
+        837.27,
+        808.46,
+        805.52,
+        745.81,
+        740.35,
+        731.76,
+        724.8,
+        748.93,
+        745.89,
+        796.24,
+        792.85,
+        796.59,
+        782.79,
+        779.93,
+        800.8,
+        797.2,
+        788.17,
+        788.88,
+        799.35,
+        786.37,
+        754.96,
+        789.01,
+        773.78,
+        785.54,
+        751.47,
+        756.25,
+        745.67,
+        791.11,
+        812.9
       ]
     }
   },
   "priceForecast": {
     "Roborock": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        817.3,
-        807.5,
-        804.61,
-        804.94,
-        798.87,
-        790.43,
-        786.88
+        842.17,
+        839.43,
+        836.33,
+        840.7,
+        825.62,
+        819.6,
+        839.93
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 22.97
+      "volatility": 24.38
     },
     "Ecovacs": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        1471.63,
-        1446.66,
-        1456.1,
-        1445.44,
-        1433.97,
-        1408.84,
-        1402.09
+        1488.0,
+        1484.77,
+        1485.65,
+        1476.34,
+        1469.89,
+        1460.16,
+        1495.84
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 41.09
+      "volatility": 40.74
     },
     "Narwal": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        886.86,
-        876.04,
-        874.89,
-        872.36,
-        867.71,
-        859.41,
-        852.65
+        877.63,
+        876.02,
+        874.69,
+        879.49,
+        865.6,
+        865.05,
+        884.65
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 21.09
+      "volatility": 20.58
     },
     "Shark": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        636.76,
-        627.34,
-        626.52,
-        620.22,
-        615.8,
-        612.36,
-        607.78
+        636.34,
+        636.65,
+        636.09,
+        632.42,
+        626.96,
+        624.76,
+        634.98
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 17.45
+      "volatility": 15.9
     },
     "Eufy": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        817.03,
-        814.19,
-        808.69,
-        806.11,
-        806.74,
-        794.81,
-        794.57
+        813.77,
+        813.1,
+        809.13,
+        812.69,
+        803.38,
+        797.85,
+        817.2
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 15.39
+      "volatility": 17.36
     },
     "iRobot": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        573.66,
-        568.35,
-        565.28,
-        564.48,
-        560.98,
-        556.7,
-        551.14
+        558.36,
+        558.54,
+        553.95,
+        558.1,
+        544.7,
+        547.57,
+        565.74
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 14.58
+      "volatility": 15.42
     },
     "Dyson": {
       "dates": [
-        "2026-02-02",
         "2026-02-03",
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ],
       "prices": [
-        781.35,
-        772.96,
-        773.59,
-        768.67,
-        767.86,
-        759.41,
-        761.24
+        772.17,
+        772.27,
+        772.19,
+        768.27,
+        761.53,
+        764.48,
+        775.77
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 18.31
+      "volatility": 19.63
     }
   },
   "brandAverages": {
-    "Roborock": 845.96,
-    "Ecovacs": 1516.57,
-    "Narwal": 901.91,
-    "Shark": 653.48,
-    "Eufy": 838.03,
-    "iRobot": 587.4,
-    "Dyson": 797.79
+    "Roborock": 865.51,
+    "Ecovacs": 1505.61,
+    "Narwal": 890.19,
+    "Shark": 655.6,
+    "Eufy": 837.58,
+    "iRobot": 566.06,
+    "Dyson": 784.74
   },
   "news": [
     {
@@ -4265,10 +4265,10 @@
     "priceHistoryModel": "Realistic simulation based on current prices + market patterns",
     "priceForecastModel": "AI: Linear Regression + Moving Average + Seasonality",
     "forecastConfidence": "Medium (based on 30-day historical patterns)",
-    "lastVerified": "2026-02-01T02:40:25.074688",
+    "lastVerified": "2026-02-02T02:30:44.764369",
     "data_sources": {
       "news": "Auto-crawled from Google News RSS"
     }
   },
-  "last_update": "2026-02-01T02:40:40.629479"
+  "last_update": "2026-02-02T02:31:01.070950"
 }
