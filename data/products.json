@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28T02:05:59.735447",
+  "lastUpdate": "2026-03-01T02:35:45.110768",
   "products": [
     {
       "brand": "Roborock",
@@ -19,7 +19,7 @@
         },
         "amazon": {
           "price": 2000.0,
-          "change": 0,
+          "change": 2.2,
           "available": true,
           "url": "https://www.amazon.com/s?k=Roborock+Saros+Z70",
           "price_source": "Official website + CNET",
@@ -27,7 +27,7 @@
         },
         "walmart": {
           "price": 1839.99,
-          "change": 0,
+          "change": 1.1,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Saros-Z70",
           "price_source": "Based on official $1999.99 × 0.92",
@@ -35,7 +35,7 @@
         },
         "costco": {
           "price": 1699.99,
-          "change": 2.2,
+          "change": 0,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Saros%20Z70",
           "price_source": "Based on official $1999.99 × 0.85",
@@ -83,19 +83,19 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": -1.6,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Saros-10R",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Saros%2010R",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -117,7 +117,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": -3.4,
+          "change": 0,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-saros-10",
           "price_source": "No data available",
@@ -237,7 +237,7 @@
         },
         "amazon": {
           "price": 1221.06,
-          "change": 0,
+          "change": 1.1,
           "available": true,
           "url": "https://www.amazon.com/s?k=Roborock+Qrevo+Curv+X",
           "price_source": "No data available",
@@ -252,12 +252,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 1104.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Qrevo%20Curv%20X",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 1065.18,
@@ -295,7 +295,7 @@
         },
         "walmart": {
           "price": 736.0,
-          "change": 3.2,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Qrevo-Curv",
           "price_source": "Based on official $800.0 × 0.92",
@@ -358,16 +358,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 764.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Qrevo%20Slim",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.18,
-          "change": 3.5,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Qrevo+Slim",
           "price_source": "No data available",
@@ -408,12 +408,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Qrevo%20S",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -451,7 +451,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 0,
+          "change": 2.5,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Qrevo-Plus",
           "price_source": "No data available",
@@ -485,7 +485,7 @@
       "channels": {
         "official": {
           "price": 899.0,
-          "change": 0,
+          "change": 0.9,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-s8-maxv-ultra",
           "price_source": "No data available",
@@ -493,7 +493,7 @@
         },
         "amazon": {
           "price": 845.06,
-          "change": 1.2,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Roborock+S8+MaxV+Ultra",
           "price_source": "No data available",
@@ -508,12 +508,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 764.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20S8%20MaxV%20Ultra",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.18,
@@ -543,7 +543,7 @@
         },
         "amazon": {
           "price": 752.0,
-          "change": 0,
+          "change": 2.5,
           "available": true,
           "url": "https://www.amazon.com/s?k=Roborock+S8+Max+Ultra",
           "price_source": "Based on official $800.0 × 0.94",
@@ -558,12 +558,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 680.0,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20S8%20Max%20Ultra",
-          "price_source": "Based on official $800.0 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 656.0,
@@ -601,7 +601,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": -0.9,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-S8-/-S8+",
           "price_source": "No data available",
@@ -609,7 +609,7 @@
         },
         "costco": {
           "price": 679.15,
-          "change": 0.8,
+          "change": 3.0,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20S8%20/%20S8+",
           "price_source": "No data available",
@@ -658,16 +658,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Q10%20S5+",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
-          "change": -3.1,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Q10+S5+",
           "price_source": "No data available",
@@ -685,7 +685,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 0.8,
+          "change": 0,
           "available": true,
           "url": "https://us.roborock.com/products/roborock-q5-max-plus",
           "price_source": "No data available",
@@ -693,7 +693,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": 1.2,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Roborock+Q5+Max+",
           "price_source": "No data available",
@@ -701,23 +701,23 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 2.1,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Roborock-Q5-Max+",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
-          "change": 0.7,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Q5%20Max+",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": 1.3,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Roborock+Q5+Max+",
           "price_source": "No data available",
@@ -758,12 +758,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Roborock%20Q5%20DuoRoller+",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -785,7 +785,7 @@
       "channels": {
         "official": {
           "price": 5499.0,
-          "change": -0.6,
+          "change": 0,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-x11-omnicyclone",
           "price_source": "No data available",
@@ -893,7 +893,7 @@
         },
         "amazon": {
           "price": 1033.06,
-          "change": 1.3,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Ecovacs+ECOVACS+DEEBOT+X8+PRO+Omni",
           "price_source": "No data available",
@@ -908,12 +908,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 934.15,
+          "change": 2.1,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20X8%20PRO%20Omni",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 901.18,
@@ -935,7 +935,7 @@
       "channels": {
         "official": {
           "price": 1099.0,
-          "change": -1.8,
+          "change": 0,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni",
           "price_source": "No data available",
@@ -959,7 +959,7 @@
         },
         "costco": {
           "price": 934.15,
-          "change": 0,
+          "change": 2.4,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20T50%20PRO%20Omni",
           "price_source": "No data available",
@@ -967,7 +967,7 @@
         },
         "ebay": {
           "price": 901.18,
-          "change": 0,
+          "change": 2.1,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Ecovacs+ECOVACS+DEEBOT+T50+PRO+Omni",
           "price_source": "No data available",
@@ -985,7 +985,7 @@
       "channels": {
         "official": {
           "price": 2999.0,
-          "change": 2.8,
+          "change": 0,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-t80-omni",
           "price_source": "No data available",
@@ -1001,19 +1001,19 @@
         },
         "walmart": {
           "price": 2759.08,
-          "change": 3.6,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-T80-Omni",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 2549.15,
+          "change": -0.9,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20T80%20Omni",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 2459.18,
@@ -1043,7 +1043,7 @@
         },
         "amazon": {
           "price": 1785.06,
-          "change": 0,
+          "change": 2.4,
           "available": true,
           "url": "https://www.amazon.com/s?k=Ecovacs+ECOVACS+DEEBOT+T30+PRO+Omni",
           "price_source": "No data available",
@@ -1067,7 +1067,7 @@
         },
         "ebay": {
           "price": 1557.18,
-          "change": 0,
+          "change": 1.7,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Ecovacs+ECOVACS+DEEBOT+T30+PRO+Omni",
           "price_source": "No data available",
@@ -1108,12 +1108,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20T30C%20OMNI",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -1135,7 +1135,7 @@
       "channels": {
         "official": {
           "price": 899.0,
-          "change": 0,
+          "change": -0.9,
           "available": true,
           "url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-n20e",
           "price_source": "No data available",
@@ -1158,12 +1158,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 764.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20Deebot%20N20e",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 737.18,
@@ -1208,12 +1208,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 764.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20Deebot%20N20e%20Plus",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 737.18,
@@ -1251,19 +1251,19 @@
         },
         "walmart": {
           "price": 827.08,
-          "change": -0.5,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Ecovacs-ECOVACS-DEEBOT-N30-OMNI",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 764.15,
+          "change": -0.6,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20N30%20OMNI",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 737.18,
@@ -1293,7 +1293,7 @@
         },
         "amazon": {
           "price": 845.06,
-          "change": 0,
+          "change": 2.1,
           "available": true,
           "url": "https://www.amazon.com/s?k=Ecovacs+ECOVACS+DEEBOT+N30+PRO+OMNI",
           "price_source": "No data available",
@@ -1309,7 +1309,7 @@
         },
         "costco": {
           "price": 764.15,
-          "change": 3.3,
+          "change": 2.0,
           "available": true,
           "url": "https://www.costco.com/CatalogSearch?keyword=Ecovacs%20ECOVACS%20DEEBOT%20N30%20PRO%20OMNI",
           "price_source": "No data available",
@@ -1408,12 +1408,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 1190.0,
-          "change": -2.5,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20Z10%20Ultra%20Robot%20Vacuum%20&%20Mop",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 1148.0,
@@ -1435,7 +1435,7 @@
       "channels": {
         "official": {
           "price": 649.99,
-          "change": 1.0,
+          "change": 1.2,
           "available": true,
           "url": "https://www.narwal.com/products/narwal-freo-z-ultra-robot-vacuum-mop",
           "price_source": "No data available",
@@ -1451,19 +1451,19 @@
         },
         "walmart": {
           "price": 597.99,
-          "change": 0,
+          "change": 1.0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Narwal-Freo-Z-Ultra-Robot-Vacuum-&-Mop",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 552.49,
-          "change": 2.6,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20Z%20Ultra%20Robot%20Vacuum%20&%20Mop",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 532.99,
@@ -1493,7 +1493,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": -1.1,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Narwal+Freo+Z10+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1508,16 +1508,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20Z10%20Robot%20Vacuum%20&%20Mop",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": -2.5,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Narwal+Freo+Z10+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1543,7 +1543,7 @@
         },
         "amazon": {
           "price": 657.99,
-          "change": -3.7,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Narwal+Freo+X10+Pro+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1558,12 +1558,12 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 594.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20X10%20Pro%20Robot%20Vacuum%20&%20Mop",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 573.99,
@@ -1601,7 +1601,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": -3.7,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Narwal-Freo-X-Ultra-Robot-Vacuum-&-Mop",
           "price_source": "No data available",
@@ -1658,16 +1658,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 594.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Narwal%20Freo%20Pro%20Robot%20Vacuum%20&%20Mop",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 573.99,
-          "change": -2.2,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Narwal+Freo+Pro+Robot+Vacuum+&+Mop",
           "price_source": "No data available",
@@ -1693,7 +1693,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": -3.4,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Narwal+Freo+S+Robot+Vacuum+and+Mop",
           "price_source": "No data available",
@@ -1701,7 +1701,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 3.3,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Narwal-Freo-S-Robot-Vacuum-and-Mop",
           "price_source": "No data available",
@@ -1751,23 +1751,23 @@
         },
         "walmart": {
           "price": 1195.08,
-          "change": 0,
+          "change": -0.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-PowerDetect-ThermaCharged-Robot-Vacuum-&-Mop-2-in-1",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
+          "price": 1104.15,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20PowerDetect%20ThermaCharged%20Robot%20Vacuum%20&%20Mop%202-in-1",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 1065.18,
-          "change": -2.8,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+PowerDetect+ThermaCharged+Robot+Vacuum+&+Mop+2-in-1",
           "price_source": "No data available",
@@ -1785,7 +1785,7 @@
       "channels": {
         "official": {
           "price": 999.99,
-          "change": -3.9,
+          "change": -3.0,
           "available": true,
           "url": "https://www.sharkninja.com/shark-powerdetect-2-in-1-robot-vacuum-and-mop-with-nevertouch-pro-base/RV2820ZE.html",
           "price_source": "No data available",
@@ -1793,7 +1793,7 @@
         },
         "amazon": {
           "price": 939.99,
-          "change": 0,
+          "change": -3.8,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+PowerDetect+2-in-1+Robot+Vacuum+and+Mop+with+NeverTouch+Pro+Base",
           "price_source": "No data available",
@@ -1808,16 +1808,16 @@
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 849.99,
+          "change": 2.3,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20PowerDetect%202-in-1%20Robot%20Vacuum%20and%20Mop%20with%20NeverTouch%20Pro%20Base",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 819.99,
-          "change": 0,
+          "change": 3.1,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+PowerDetect+2-in-1+Robot+Vacuum+and+Mop+with+NeverTouch+Pro+Base",
           "price_source": "No data available",
@@ -1835,7 +1835,7 @@
       "channels": {
         "official": {
           "price": 799.0,
-          "change": 2.6,
+          "change": 0,
           "available": true,
           "url": "https://www.sharkclean.com/products/shark-powerdetect-2-in-1-robot-vacuum-and-mop-with-nevertouch-base-zidRV2820YECA",
           "price_source": "No data available",
@@ -1851,7 +1851,7 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 0,
+          "change": -2.9,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-PowerDetect-2-in-1-Robot-Vacuum-and-Mop-with-NeverTouch-Base",
           "price_source": "No data available",
@@ -1885,7 +1885,7 @@
       "channels": {
         "official": {
           "price": 799.99,
-          "change": 0,
+          "change": 3.8,
           "available": true,
           "url": "https://www.sharkninja.com/shark-stratos-nevertouch-2-in-1-robot-vacuum-mop/RV2720ZE.html",
           "price_source": "No data available",
@@ -1901,7 +1901,7 @@
         },
         "walmart": {
           "price": 735.99,
-          "change": 0,
+          "change": 0.9,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-Stratos-NeverTouch-2-in-1-Robot-Vacuum-&-Mop",
           "price_source": "No data available",
@@ -1967,7 +1967,7 @@
         },
         "ebay": {
           "price": 655.18,
-          "change": 0,
+          "change": 0.7,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+Matrix+Plus+2-in-1+Self-Empty+Robot+Vacuum+and+Mop",
           "price_source": "No data available",
@@ -1993,7 +1993,7 @@
         },
         "amazon": {
           "price": 751.06,
-          "change": 2.4,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+Matrix+Self-Emptying+Robot+Vacuum",
           "price_source": "No data available",
@@ -2001,19 +2001,19 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 0,
+          "change": -1.1,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-Matrix-Self-Emptying-Robot-Vacuum",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 679.15,
-          "change": 3.0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20Matrix%20Self-Emptying%20Robot%20Vacuum",
-          "price_source": "No data available",
-          "confidence": "UNKNOWN"
+          "price": 0,
+          "change": 0,
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.18,
@@ -2051,19 +2051,19 @@
         },
         "walmart": {
           "price": 735.08,
-          "change": 3.5,
+          "change": -1.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-PowerDetect-Self-Empty-Robot-Vacuum",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 679.15,
+          "change": -2.2,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20PowerDetect%20Self-Empty%20Robot%20Vacuum",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 655.18,
@@ -2085,7 +2085,7 @@
       "channels": {
         "official": {
           "price": 299.99,
-          "change": -1.0,
+          "change": 3.1,
           "available": true,
           "url": "https://www.sharkclean.com/robot-vacuums",
           "price_source": "No data available",
@@ -2093,7 +2093,7 @@
         },
         "amazon": {
           "price": 281.99,
-          "change": -3.2,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Shark+Navigator+Robot+Vacuum",
           "price_source": "No data available",
@@ -2101,23 +2101,23 @@
         },
         "walmart": {
           "price": 275.99,
-          "change": 1.1,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-Navigator-Robot-Vacuum",
           "price_source": "No data available",
           "confidence": "UNKNOWN"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 254.99,
+          "change": -2.4,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Shark%20Navigator%20Robot%20Vacuum",
+          "price_source": "No data available",
+          "confidence": "UNKNOWN"
         },
         "ebay": {
           "price": 245.99,
-          "change": -2.3,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+Navigator+Robot+Vacuum",
           "price_source": "No data available",
@@ -2135,7 +2135,7 @@
       "channels": {
         "official": {
           "price": 299.99,
-          "change": 0,
+          "change": 1.7,
           "available": true,
           "url": "https://www.sharkclean.com/robot-vacuums",
           "price_source": "No data available",
@@ -2151,7 +2151,7 @@
         },
         "walmart": {
           "price": 275.99,
-          "change": 2.4,
+          "change": 1.1,
           "available": true,
           "url": "https://www.walmart.com/search?q=Shark-IQ-Robot-Vacuum",
           "price_source": "No data available",
@@ -2167,7 +2167,7 @@
         },
         "ebay": {
           "price": 245.99,
-          "change": 0.8,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+IQ+Robot+Vacuum",
           "price_source": "No data available",
@@ -2217,7 +2217,7 @@
         },
         "ebay": {
           "price": 147.59,
-          "change": 1.8,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Shark+ION+Robot+Vacuum+R75",
           "price_source": "No data available",
@@ -2235,7 +2235,7 @@
       "channels": {
         "official": {
           "price": 1599.99,
-          "change": -3.1,
+          "change": 0,
           "available": true,
           "url": "https://www.eufy.com/products/t2081111",
           "price_source": "Official Press Release (EIN Presswire)",
@@ -2258,16 +2258,16 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 1359.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20Omni%20S2",
-          "price_source": "Based on official $1599.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 1311.99,
-          "change": 1.9,
+          "change": 0,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Eufy+Omni+S2",
           "price_source": "Based on official $1599.99 × 0.82",
@@ -2308,16 +2308,16 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
+          "price": 1274.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20Omni%20S1%20Pro",
+          "price_source": "Based on official $1499.99 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 1229.99,
-          "change": 0,
+          "change": 3.7,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Eufy+Omni+S1+Pro",
           "price_source": "Based on official $1499.99 × 0.82",
@@ -2349,7 +2349,7 @@
         },
         "amazon": {
           "price": 751.99,
-          "change": 0,
+          "change": -0.8,
           "available": true,
           "url": "https://www.amazon.com/s?k=Eufy+X10+Pro+Omni",
           "price_source": "Based on official $799.99 × 0.94",
@@ -2357,19 +2357,19 @@
         },
         "walmart": {
           "price": 735.99,
-          "change": -1.9,
+          "change": 0,
           "available": true,
           "url": "https://www.walmart.com/search?q=Eufy-X10-Pro-Omni",
           "price_source": "Based on official $799.99 × 0.92",
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 679.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20X10%20Pro%20Omni",
-          "price_source": "Based on official $799.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.99,
@@ -2397,7 +2397,7 @@
       "channels": {
         "official": {
           "price": 899.99,
-          "change": 0,
+          "change": 3.5,
           "available": true,
           "url": "https://www.eufy.com/products/t2360111",
           "price_source": "Official + CNET Best for spot cleaning",
@@ -2405,7 +2405,7 @@
         },
         "amazon": {
           "price": 700.0,
-          "change": -2.9,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=Eufy+Omni+E28",
           "price_source": "CNET Best for spot cleaning",
@@ -2453,7 +2453,7 @@
       "channels": {
         "official": {
           "price": 549.99,
-          "change": 0.9,
+          "change": 0,
           "available": true,
           "url": "https://www.eufy.com/products/t2277111",
           "price_source": "Official + CNET tested",
@@ -2476,16 +2476,16 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
-          "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "price": 467.49,
+          "change": -1.4,
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Eufy%20E20%203-in-1",
+          "price_source": "Based on official $549.99 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 450.99,
-          "change": 0,
+          "change": -2.4,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=Eufy+E20+3-in-1",
           "price_source": "Based on official $549.99 × 0.82",
@@ -2503,7 +2503,7 @@
       "channels": {
         "official": {
           "price": 299.99,
-          "change": 0,
+          "change": -3.6,
           "available": true,
           "url": "https://www.eufy.com/robovac",
           "price_source": "Official + CNET verified",
@@ -2511,7 +2511,7 @@
         },
         "amazon": {
           "price": 281.99,
-          "change": 0,
+          "change": 2.7,
           "available": true,
           "url": "https://www.amazon.com/s?k=Eufy+RoboVac+25C",
           "price_source": "Based on official $299.99 × 0.94",
@@ -2519,7 +2519,7 @@
         },
         "walmart": {
           "price": 150.0,
-          "change": 0,
+          "change": 1.8,
           "available": true,
           "url": "https://www.walmart.com/search?q=Eufy-RoboVac-25C",
           "price_source": "CNET",
@@ -2561,7 +2561,7 @@
         },
         "amazon": {
           "price": 360.0,
-          "change": -3.2,
+          "change": 0,
           "available": true,
           "url": "https://www.amazon.com/s?k=iRobot+Roomba+Plus+405+Combo",
           "price_source": "Official + CNET deal (save $440)",
@@ -2576,12 +2576,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 679.99,
+          "price": 0,
           "change": 0,
-          "available": true,
-          "url": "https://www.costco.com/CatalogSearch?keyword=iRobot%20Roomba%20Plus%20405%20Combo",
-          "price_source": "Based on official $799.99 × 0.85",
-          "confidence": "ESTIMATED"
+          "available": false,
+          "url": "",
+          "price_source": "",
+          "confidence": ""
         },
         "ebay": {
           "price": 655.99,
@@ -2685,7 +2685,7 @@
         },
         "ebay": {
           "price": 737.99,
-          "change": 0,
+          "change": -1.8,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=iRobot+Roomba+Combo+j9+",
           "price_source": "Based on official $899.99 × 0.82",
@@ -2703,7 +2703,7 @@
       "channels": {
         "official": {
           "price": 799.99,
-          "change": 0,
+          "change": -2.0,
           "available": true,
           "url": "https://www.irobot.com/roomba-combo-j7-plus",
           "price_source": "Official website",
@@ -2711,7 +2711,7 @@
         },
         "amazon": {
           "price": 751.99,
-          "change": 0,
+          "change": -1.4,
           "available": true,
           "url": "https://www.amazon.com/s?k=iRobot+Roomba+Combo+j7+",
           "price_source": "Based on official $799.99 × 0.94",
@@ -2726,16 +2726,16 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
+          "price": 679.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=iRobot%20Roomba%20Combo%20j7+",
+          "price_source": "Based on official $799.99 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 655.99,
-          "change": 0,
+          "change": 2.4,
           "available": true,
           "url": "https://www.ebay.com/sch/i.html?_nkw=iRobot+Roomba+Combo+j7+",
           "price_source": "Based on official $799.99 × 0.82",
@@ -2753,7 +2753,7 @@
       "channels": {
         "official": {
           "price": 999.99,
-          "change": 0,
+          "change": -2.0,
           "available": true,
           "url": "https://www.dyson.com/vacuum-cleaners/robot/dyson-360-vis-nav-purple-nickel/overview",
           "price_source": "Official + Tom's Guide + CNET verified (60% off)",
@@ -2776,12 +2776,12 @@
           "confidence": "ESTIMATED"
         },
         "costco": {
-          "price": 0,
+          "price": 849.99,
           "change": 0,
-          "available": false,
-          "url": "",
-          "price_source": "",
-          "confidence": ""
+          "available": true,
+          "url": "https://www.costco.com/CatalogSearch?keyword=Dyson%20360%20Vis%20Nav",
+          "price_source": "Based on official $999.99 × 0.85",
+          "confidence": "ESTIMATED"
         },
         "ebay": {
           "price": 819.99,
@@ -2797,7 +2797,6 @@
   "priceHistory": {
     "Roborock": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -2827,45 +2826,45 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        833.06,
-        861.78,
-        832.59,
-        855.01,
-        887.73,
-        830.49,
-        801.93,
-        817.09,
-        791.64,
-        782.26,
-        786.65,
-        858.6,
-        879.38,
-        855.76,
-        844.21,
-        850.38,
-        835.86,
-        827.66,
-        857.41,
-        856.09,
-        850.12,
-        848.77,
-        843.04,
-        809.88,
-        824.22,
-        860.15,
-        846.41,
-        833.57,
-        816.43,
-        819.26,
-        805.02
+        868.42,
+        839.5,
+        888.14,
+        906.81,
+        919.67,
+        832.34,
+        855.27,
+        826.32,
+        811.59,
+        797.8,
+        823.17,
+        894.78,
+        878.37,
+        869.04,
+        871.29,
+        858.67,
+        862.06,
+        871.84,
+        891.4,
+        871.04,
+        884.52,
+        880.86,
+        843.62,
+        864.91,
+        875.67,
+        880.36,
+        835.97,
+        860.23,
+        837.87,
+        823.22,
+        869.47
       ]
     },
     "Ecovacs": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -2895,45 +2894,45 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        1441.62,
-        1425.53,
-        1393.88,
-        1438.1,
-        1489.58,
-        1394.01,
-        1400.78,
-        1372.48,
-        1345.54,
-        1329.11,
-        1309.67,
-        1485.0,
-        1437.0,
-        1440.31,
-        1465.05,
-        1463.62,
-        1426.89,
-        1414.18,
-        1442.79,
-        1445.7,
-        1437.53,
-        1428.51,
-        1443.29,
-        1408.57,
-        1408.59,
-        1447.96,
-        1428.7,
-        1382.85,
-        1397.03,
-        1399.1,
-        1346.12
+        1448.14,
+        1414.44,
+        1501.48,
+        1511.0,
+        1542.48,
+        1421.23,
+        1407.22,
+        1379.12,
+        1353.29,
+        1327.36,
+        1379.19,
+        1497.37,
+        1472.3,
+        1480.92,
+        1480.52,
+        1461.81,
+        1437.42,
+        1501.0,
+        1464.6,
+        1449.38,
+        1481.5,
+        1443.81,
+        1384.74,
+        1405.98,
+        1482.81,
+        1444.28,
+        1397.92,
+        1395.52,
+        1407.32,
+        1388.4,
+        1443.34
       ]
     },
     "Narwal": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -2963,45 +2962,45 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        913.58,
-        916.75,
-        886.83,
-        936.43,
-        962.37,
-        896.83,
-        890.55,
-        905.2,
-        864.37,
-        848.01,
-        846.56,
-        919.74,
-        960.88,
-        914.39,
-        929.24,
-        942.97,
-        902.3,
-        904.25,
-        926.15,
-        919.36,
-        923.69,
-        905.13,
-        903.73,
-        912.48,
-        916.34,
-        935.17,
-        938.5,
-        892.48,
-        882.5,
-        894.71,
-        863.12
+        928.19,
+        897.16,
+        938.48,
+        995.49,
+        976.29,
+        888.22,
+        893.34,
+        871.43,
+        858.87,
+        862.36,
+        883.8,
+        950.44,
+        948.61,
+        948.74,
+        952.55,
+        928.3,
+        928.76,
+        948.72,
+        959.97,
+        941.81,
+        940.74,
+        939.54,
+        925.33,
+        909.6,
+        945.18,
+        944.67,
+        892.03,
+        891.02,
+        890.97,
+        880.16,
+        921.77
       ]
     },
     "Shark": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -3031,45 +3030,45 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        643.32,
-        633.27,
-        632.73,
-        656.05,
-        685.25,
-        642.72,
-        630.09,
-        627.61,
-        611.16,
-        591.45,
-        595.55,
-        658.52,
-        657.37,
-        647.61,
-        636.87,
-        653.56,
-        652.36,
-        655.26,
-        651.63,
-        652.29,
-        654.59,
-        657.35,
-        639.99,
-        628.76,
-        629.66,
-        649.49,
-        638.49,
-        629.81,
-        618.93,
-        619.2,
-        611.66
+        660.97,
+        640.25,
+        682.85,
+        696.2,
+        688.4,
+        635.13,
+        623.1,
+        615.18,
+        609.77,
+        599.03,
+        630.73,
+        667.84,
+        659.87,
+        663.67,
+        654.37,
+        638.33,
+        643.92,
+        666.81,
+        666.48,
+        650.08,
+        656.73,
+        647.72,
+        642.85,
+        632.25,
+        662.84,
+        668.24,
+        623.86,
+        636.19,
+        629.91,
+        618.41,
+        654.63
       ]
     },
     "Eufy": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -3099,45 +3098,45 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        819.8,
-        816.15,
-        816.51,
-        844.55,
-        858.47,
-        809.17,
-        793.15,
-        799.43,
-        784.8,
-        764.07,
-        753.72,
-        844.34,
-        841.45,
-        838.75,
-        835.43,
-        820.64,
-        813.54,
-        814.07,
-        844.37,
-        842.02,
-        839.87,
-        814.97,
-        824.65,
-        792.83,
-        813.49,
-        817.69,
-        835.75,
-        785.31,
-        805.62,
-        792.41,
-        773.85
+        803.42,
+        786.53,
+        830.96,
+        873.96,
+        854.61,
+        785.53,
+        777.97,
+        772.23,
+        750.36,
+        748.9,
+        768.05,
+        836.92,
+        829.09,
+        832.0,
+        829.08,
+        799.13,
+        818.8,
+        800.19,
+        815.76,
+        811.72,
+        822.12,
+        817.95,
+        784.99,
+        790.95,
+        819.69,
+        818.86,
+        781.03,
+        782.14,
+        771.39,
+        763.26,
+        811.0
       ]
     },
     "iRobot": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -3167,45 +3166,45 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        589.18,
-        592.53,
-        576.42,
-        599.71,
-        617.98,
-        590.2,
-        587.63,
-        574.07,
-        562.84,
-        547.04,
-        549.54,
-        608.61,
-        614.37,
-        609.47,
-        602.54,
-        598.8,
-        590.71,
-        595.04,
-        601.87,
-        604.24,
-        604.37,
-        600.86,
-        596.57,
-        585.86,
-        581.06,
-        607.39,
-        607.54,
-        583.99,
-        572.31,
-        578.88,
-        561.08
+        588.09,
+        566.6,
+        601.24,
+        632.19,
+        614.57,
+        579.88,
+        585.28,
+        566.82,
+        541.26,
+        543.98,
+        570.25,
+        608.81,
+        608.87,
+        603.19,
+        611.62,
+        590.18,
+        585.22,
+        606.15,
+        613.16,
+        603.65,
+        610.1,
+        598.18,
+        570.83,
+        586.75,
+        588.48,
+        609.2,
+        576.85,
+        574.62,
+        578.77,
+        564.29,
+        594.16
       ]
     },
     "Dyson": {
       "dates": [
-        "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
@@ -3235,592 +3234,523 @@
         "2026-02-25",
         "2026-02-26",
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-01"
       ],
       "prices": [
-        773.18,
-        790.47,
-        765.32,
-        818.73,
-        832.58,
-        767.71,
-        768.19,
-        762.84,
-        753.97,
-        724.78,
-        732.28,
-        809.03,
-        792.6,
-        781.78,
-        799.25,
-        800.21,
-        783.9,
-        783.54,
-        803.4,
-        796.77,
-        780.53,
-        788.89,
-        780.55,
-        773.2,
-        773.79,
-        800.46,
-        808.47,
-        772.32,
-        776.28,
-        776.33,
-        754.06
+        806.04,
+        791.68,
+        823.89,
+        848.67,
+        841.14,
+        780.38,
+        778.54,
+        756.3,
+        741.07,
+        741.24,
+        766.84,
+        818.97,
+        829.92,
+        813.34,
+        797.06,
+        788.76,
+        798.21,
+        808.42,
+        832.67,
+        798.43,
+        795.69,
+        803.48,
+        786.1,
+        771.87,
+        806.43,
+        807.45,
+        775.22,
+        780.86,
+        776.89,
+        753.29,
+        805.24
       ]
     }
   },
   "priceForecast": {
     "Roborock": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        814.7,
-        824.4,
-        820.66,
-        817.5,
-        810.38,
-        810.21,
-        807.07
+        855.87,
+        844.27,
+        840.13,
+        839.82,
+        837.97,
+        824.36,
+        823.46
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 17.89
+      "volatility": 19.93
     },
     "Ecovacs": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        1372.3,
-        1402.43,
-        1381.42,
-        1374.8,
-        1373.57,
-        1375.73,
-        1353.01
+        1416.18,
+        1399.97,
+        1399.7,
+        1393.01,
+        1379.23,
+        1375.9,
+        1358.11
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 27.88
+      "volatility": 37.19
     },
     "Narwal": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        882.63,
-        901.65,
-        889.34,
-        889.81,
-        885.96,
-        885.22,
-        872.08
+        902.01,
+        885.14,
+        886.18,
+        878.55,
+        884.76,
+        873.07,
+        866.95
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 19.97
+      "volatility": 25.29
     },
     "Shark": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        611.25,
-        623.92,
-        612.82,
-        613.16,
-        610.06,
-        608.14,
-        598.44
+        643.79,
+        632.17,
+        628.29,
+        629.4,
+        627.77,
+        620.1,
+        616.04
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 14.89
+      "volatility": 16.11
     },
     "Eufy": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        786.34,
-        795.83,
-        782.91,
-        780.83,
-        777.62,
-        774.31,
-        764.36
+        792.03,
+        782.28,
+        781.94,
+        781.51,
+        779.14,
+        768.0,
+        763.49
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 21.38
+      "volatility": 19.29
     },
     "iRobot": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        571.22,
-        581.61,
-        574.67,
-        571.11,
-        570.65,
-        570.7,
-        565.99
+        580.08,
+        570.57,
+        571.97,
+        567.79,
+        567.47,
+        559.57,
+        562.23
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 13.94
+      "volatility": 15.59
     },
     "Dyson": {
       "dates": [
-        "2026-03-01",
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-08"
       ],
       "prices": [
-        766.06,
-        781.67,
-        770.94,
-        770.38,
-        770.33,
-        767.1,
-        761.68
+        782.29,
+        777.51,
+        771.35,
+        769.69,
+        775.55,
+        764.47,
+        755.83
       ],
       "confidence": "AI_PREDICTED",
       "model": "Linear Regression + Moving Average + Seasonality",
       "trend": "decreasing",
-      "volatility": 14.21
+      "volatility": 19.44
     }
   },
   "brandAverages": {
-    "Roborock": 842.2,
-    "Ecovacs": 1429.27,
-    "Narwal": 913.71,
-    "Shark": 643.0,
-    "Eufy": 818.69,
+    "Roborock": 863.34,
+    "Ecovacs": 1443.47,
+    "Narwal": 922.84,
+    "Shark": 649.09,
+    "Eufy": 807.68,
     "iRobot": 593.61,
-    "Dyson": 784.74
+    "Dyson": 797.79
   },
   "news": [
     {
       "brand": "Eufy",
-      "title": "eufy E28 Omni Robotic Vacuum Cleaner $746.30+ Delivery ($0 C&C/ in-Store) @ TheGoodGuys",
-      "summary": "Original Coupon Deal ATL price on this unit This is a roller mop design which seems better than the spinning pads on most models Key Features 20,000Pa Turbo Suction FlexiOne(TM) Portable Deep …...",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/949700",
-      "date": "2026-02-26",
-      "image": "https://files.ozbargain.com.au/n/00/949700x.jpg?h=099df808",
-      "is_preferred": false
+      "title": "The new Eufy C28 is the most budget-friendly roller mop robot vacuum. I tried it against the top 2 in its class.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmlfRWo3V0RvaUNLdUtGb1lPVlRMOFRtNE5zVmpVZ2gtS2ZvY2ZqdHpCUDk4aFZyMkJ6VjZodTFCdllpcmF6bjZCQllJRU5ZT1ZuTlNtaWJFUENTaXNMTzE4R0N2a2pKMFExOXhyUn...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmlfRWo3V0RvaUNLdUtGb1lPVlRMOFRtNE5zVmpVZ2gtS2ZvY2ZqdHpCUDk4aFZyMkJ6VjZodTFCdllpcmF6bjZCQllJRU5ZT1ZuTlNtaWJFUENTaXNMTzE4R0N2a2pKMFExOXhyUnRKajdCTmFnVnJ4Wl9MeDgxdTlTY3dVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-28",
+      "image": "",
+      "is_preferred": true
     },
     {
       "brand": "Eufy",
-      "title": "Eufy's Newest Robot Vacuum Has the Longest Roller Mop We've Seen for the Price",
-      "summary": "Eufy's new Omni C28 robot vacuum comes with an extra-long roller mop and some premium features often seen on high-end models....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/home/kitchen-and-household/eufys-newest-robot-vacuum-longest-roller-mop-price/",
-      "date": "2026-02-24",
-      "image": "https://www.cnet.com/a/img/resize/e4fb4ec5c9372bc2b04f201a81343cfcd5738079/hub/2026/02/23/02c5d2af-2c59-4387-89f6-b89dba5024f0/image003.png?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Dirt Cheap Deals: This Eufy Robot Vacuum and Mop Combo Will Save You $250",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTBjWEJpcFRnZ2RjWUZSaEpmMi1kZHdIS1huaUtTTVBsd2VsdDJiWWFDRi0yTzZQbkhYZWJESDNJTWFMckZsQjcybkcxMnROaTNkanZHME41SnJudklYdm0zOE5sQU01RmJwTEpmc0...",
+      "source": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTBjWEJpcFRnZ2RjWUZSaEpmMi1kZHdIS1huaUtTTVBsd2VsdDJiWWFDRi0yTzZQbkhYZWJESDNJTWFMckZsQjcybkcxMnROaTNkanZHME41SnJudklYdm0zOE5sQU01RmJwTEpmc0hhYlpfaUdJQzdISllWN0dYWmFmMTBMczV3ZFhPVU1QZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-27",
+      "image": "",
       "is_preferred": true
+    },
+    {
+      "brand": "Eufy",
+      "title": "Eufy Robot Vacuum Omni C28 Review: Efficient Cleaning Solution",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlpoZnlJVlVkM0p5NGZUUU92Z21USHZMbXJTUDZGVkdOLWliOTNPSmw1ZGhIbnlXcFcyZGlQSGQ4dmRCeWowVWhDdFdIZm9vZDRUZ01LS2V3NVRKTjVFRVdVWmlCRjdlQlRXYWZnaU...",
+      "source": "AndroidGuys",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlpoZnlJVlVkM0p5NGZUUU92Z21USHZMbXJTUDZGVkdOLWliOTNPSmw1ZGhIbnlXcFcyZGlQSGQ4dmRCeWowVWhDdFdIZm9vZDRUZ01LS2V3NVRKTjVFRVdVWmlCRjdlQlRXYWZnaU1MZE5RVGxXam9sRVBZaVpBZGcwdTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-26",
+      "image": "",
+      "is_preferred": false
     },
     {
       "brand": "Eufy",
       "title": "Put Your Feet Up With the Eufy Robot Vacuum E25 While It’s at Its Lowest Price",
-      "summary": "This power robot vacuum and mop will keep your floors clean for $300 less than its usual price....",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1fV3VjSlVKZzhXYjBVNlBJcEYtT2ZObTU0VXFrRXBsdXpyTGtXS280Z3lCTkN4SWVmVDZxak5KMEdCOTBoTms2cGdaVnQ4ajNRWG5YRTVRVTRKTmdsUlR5andkYjk2RnBmZDYzeXhNVQ...",
       "source": "CNET",
-      "url": "https://www.cnet.com/deals/eufy-e25-robot-vacuum-and-mop-deal/",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fV3VjSlVKZzhXYjBVNlBJcEYtT2ZObTU0VXFrRXBsdXpyTGtXS280Z3lCTkN4SWVmVDZxak5KMEdCOTBoTms2cGdaVnQ4ajNRWG5YRTVRVTRKTmdsUlR5andkYjk2RnBmZDYzeXhNVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-24",
-      "image": "https://www.cnet.com/a/img/resize/332f6d61bb441a1484a21e93dfb8c2bcc9a31327/hub/2026/01/26/f4ccfdfb-4814-43ba-9a48-a53558fb256e/eufy-robot-vacuum-e25.png?auto=webp&fit=crop&height=675&width=1200",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "Eufy",
-      "title": "Today’s Hot Deals: Baseus 10-in-1 Charging Station with Surge Protection, Google Pixel Watch 3, Spawn Compendium, Batman by Grant Morrison Omnibus, and MORE!",
-      "summary": "For today’s edition of Deals of the Day (February 22, 2025) here are some of the best deals we stumbled on while browsing the web this morning! Please note that Geeks are Sexy might get a small commis...",
-      "source": "Geeksaresexy.net",
-      "url": "https://www.geeksaresexy.net/?p=599504",
-      "date": "2026-02-22",
-      "image": null,
+      "title": "Anker launches new eufy Omni C28 HydroJet robot vac and mop with self-cleaning roller mop at $600 (Save $200)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHdKOUtHalN4UVJ3TzI1WU9pZ2pZdng0aWMtQVdCeXBQdmhqYUVFTjNTRGhqSk1KSlljU3FER1V6eU9oSGxZUjQ5bEJCXzVITmFXbVNxb2p2cHh5bWtpYTNRemlNZ2lGWmZUSXBfY1...",
+      "source": "9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHdKOUtHalN4UVJ3TzI1WU9pZ2pZdng0aWMtQVdCeXBQdmhqYUVFTjNTRGhqSk1KSlljU3FER1V6eU9oSGxZUjQ5bEJCXzVITmFXbVNxb2p2cHh5bWtpYTNRemlNZ2lGWmZUSXBfY1d3di1vS0JFd3RJVGxTX0lhLWJOd3VhazZuTk9JOHIxNmhnMl9qZUNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-27",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Eufy",
-      "title": "eufy E28 Omni Robotic Vacuum Cleaner $879 + Delivery ($0 C&C/ in-Store) @ JB Hi-Fi",
-      "summary": "Possibly an ATL? I believe it's being superseded based on another comment I read, which could explain it. Description The eufy Robot Vacuum Omni E28 combines powerful Turbo Suction with the …...",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/948829",
-      "date": "2026-02-19",
-      "image": "https://files.ozbargain.com.au/n/29/948829x.jpg?h=6e65f3d9",
+      "title": "Eufy’s Robot Vacuum Is Only $200 for Strategist Readers",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkJtZEhCUVdaeXBlZkVReXUtLWkyZUVWQWs3VnV2TjEyNWg4ZUN6V1A1dHdobncweGhrZnhHek5LZkNsRmtqNnltdktVcG1kTnBLblpiVTcyQ2F1NzJ1UnNfdEdEYkJoV3Z1ZlFDeT...",
+      "source": "New York Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkJtZEhCUVdaeXBlZkVReXUtLWkyZUVWQWs3VnV2TjEyNWg4ZUN6V1A1dHdobncweGhrZnhHek5LZkNsRmtqNnltdktVcG1kTnBLblpiVTcyQ2F1NzJ1UnNfdEdEYkJoV3Z1ZlFDeTNVM3RrSDVyYTFKeU9kY3lEcFM1bFpSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-27",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Eufy",
-      "title": "Certified Refurbished eufy BoostIQ RoboVac 11S Max Robot Vacuum Cleaner $71.99",
-      "summary": "Certified Refurbished eufy BoostIQ RoboVac 11S Max Robot Vacuum Cleaner *$71.99* \n \nFree shipping and free return. \n \nhttps://www.ebay.com/itm/385841281907...",
-      "source": "Slickdeals.net",
-      "url": "https://slickdeals.net/f/19225825-certified-refurbished-eufy-boostiq-robovac-11s-max-robot-vacuum-cleaner-71-99",
-      "date": "2026-02-19",
-      "image": "https://slickdeals.net/attachment/3/3/2/8/0/4/4/7/450x450/19630900.thumb",
+      "title": "2026 Eufy Robot Vacuum Lineup: Full Breakdown and Recommendations",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TMFRIOUY3YWtqT1A1dTRvMXBfaTU5dDI1RTNSeVdXMlFFYm9XWjZrSkh5bElEXy1GdWY5NFlVWlI3WnhOa3NFNF9CeElFQ2VRVU0yZy1TVXNBREFG?oc=5\" target=\"_blank\">202...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TMFRIOUY3YWtqT1A1dTRvMXBfaTU5dDI1RTNSeVdXMlFFYm9XWjZrSkh5bElEXy1GdWY5NFlVWlI3WnhOa3NFNF9CeElFQ2VRVU0yZy1TVXNBREFG?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-17",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Eufy",
+      "title": "Eufy Omni E28 Review: A Good Vacuum That Tries to Do Too Much",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNazRpN1M5UXhkT0x5VVo5VjM1SGgzU1RVZnNGdWdEWG5Dd2FUdVVyM0FEbTN0OVdHNmFUOGNpYjRtSmZNX25aUHdROG9Oa0FhWGtmcGhZU2gtdlJ2QU5Qdml2MldLSkpNX25oc3B4TX...",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazRpN1M5UXhkT0x5VVo5VjM1SGgzU1RVZnNGdWdEWG5Dd2FUdVVyM0FEbTN0OVdHNmFUOGNpYjRtSmZNX25aUHdROG9Oa0FhWGtmcGhZU2gtdlJ2QU5Qdml2MldLSkpNX25oc3B4TXBubjQzdE5vOEdpT1VsaTY0dE9oaG5sY3gtNmUwdUZfTjMxRjFUOHdhaXVES3l5LVZONGZral9EUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-20",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Eufy",
-      "title": "This $30 solution helped my robot vacuum finally get over my floor transition",
-      "summary": "This low-cost fix was all my robot vacuum needed to overcome a tall threshold....",
-      "source": "MakeUseOf",
-      "url": "https://www.makeuseof.com/solution-robot-vacuum-high-floor-transition/",
-      "date": "2026-02-18",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/eufy-x10-omni-next-to-tall-floor-transition-home-gym.jpg?w=1600&h=900&fit=crop",
+      "title": "Eufy C28 Undercuts Dreame And Roborock In Tests",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0hZNnhCZ3hteVFiWXlMYmhrZG54Qi1yZkxnMmwzNzZFdXhlY3FRb1JQbW1jdDF2QlVRclMzaFVrUExkb0x3UjVBdV9zMnBTTWNkZlBfWVNBZm1URW5NQjVzREZSclcxaTUtYlRNOD...",
+      "source": "findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0hZNnhCZ3hteVFiWXlMYmhrZG54Qi1yZkxnMmwzNzZFdXhlY3FRb1JQbW1jdDF2QlVRclMzaFVrUExkb0x3UjVBdV9zMnBTTWNkZlBfWVNBZm1URW5NQjVzREZSclcxaTUtYlRNODFVUnlINXI1X21QcHJVcC1VTGhVb9IBiwFBVV95cUxPRVNDbFFPaUVSUGpnNjlCTjhTdjR4ZmhScE9HMVZMTS1ZY0l3RW9EdFNGYWp0M3pTaHhMa24tQmFoODhfOTUyS0YwR1pzRklOLTF2VVNXWTh5TjVlTUV1M18yQWZRMWRWWndMODFYeG9iTzRsUXM3WXVvUzVzRlVBNlJsMzNLWi1RbVpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-28",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Eufy",
-      "title": "Certified Refurb eufy BoostIQ RoboVac 11S Max Robot Vacuum Cleaner for $72 + free shipping",
-      "summary": "It's the best deal we've seen for the eufy BoostIQ RoboVac 11S Max in any condition. It includes a 2-year Allstate warranty. Buy Now at eBay...",
-      "source": "Dealnews.com",
-      "url": "https://www.dealnews.com/products/Anker/eufy-by-Anker-Boost-IQ-Robo-Vac-11-S-Max-Robot-Vacuum-Cleaner/101053.html",
-      "date": "2026-02-18",
-      "image": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/tyykibuarpgt8kl96smd.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Eufy",
-      "title": "Someone Hacked Thousands Of DJI Robot Vacuums For Fun And It Was Embarrassingly Easy",
-      "summary": "You probably didn't know that DJI made a robot vacuum, and they might be wishing they didn't. DJI's Romo robot vacuum had pretty terrible security. How...",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/2026/02/someone-hacked-thousands-of-dji-robot-vacuums-for-fun-and-it-was-embarrassingly-easy.html",
-      "date": "2026-02-18",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/02/hero-image.webp",
-      "is_preferred": false
-    },
-    {
-      "brand": "Eufy",
-      "title": "Walmart Deals of the Day: Light Up the Room With Over 50% Off Govee Smart Bulbs",
-      "summary": "Plus, grab a Eufy robot vacuum for half off and snag an enameled Lodge Dutch oven for just $60....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/walmart-deals-of-the-day-february-16/",
-      "date": "2026-02-16",
-      "image": "https://www.cnet.com/a/img/resize/bb99cde1257e12b12a41c6d99a42ce3dd407896a/hub/2026/02/16/b8b904c3-49ae-4471-9fe7-d071872c01ed/walmart-dotd-feb-16.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Best robot vacuum deal: Save $250 on Eufy Omni C20",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vaDJWTzdIczRWeFQzcGQ3Y3hxeElkd1YzZmVwMW9hZjRqQU5ESlBCaV9FLUlha1BXdS1aT2dWVUY0MW0wTV9Udk9qeWxiU2tJVVV3cEQyVjdFb1h4YVFsd19nOE5naHRDb1E?oc=5\" ...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vaDJWTzdIczRWeFQzcGQ3Y3hxeElkd1YzZmVwMW9hZjRqQU5ESlBCaV9FLUlha1BXdS1aT2dWVUY0MW0wTV9Udk9qeWxiU2tJVVV3cEQyVjdFb1h4YVFsd19nOE5naHRDb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-26",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "Roborock",
-      "title": "Let the Roborock Vacuum Handle the Floors While You Handle Everything Else",
-      "summary": "Deep cleaning doesn't have to be a DIY project. Save $550 and put this top-tier robot to work....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/roborock-s8-maxv-vacuum-deal/",
+      "title": "Roborock's most powerful robot vacuum to date is finally available to buy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDMzc2tmMjE4ZDh4d2hkMVk3SFVZWXJ0ZkdvVTlfM1F0YTJrVlpSdDhFcThsTEZid3U4NjdXQTF6aklJVmc3Q05vdExnN2NVbnR3RXN6ekdqcmZqZUhUa3RaVHFCeUdzWHhjRHgxR1...",
+      "source": "T3",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDMzc2tmMjE4ZDh4d2hkMVk3SFVZWXJ0ZkdvVTlfM1F0YTJrVlpSdDhFcThsTEZid3U4NjdXQTF6aklJVmc3Q05vdExnN2NVbnR3RXN6ekdqcmZqZUhUa3RaVHFCeUdzWHhjRHgxR1Z2b19MNklkOVRHeXZuWTdLRXFsVjMyS284TElLTlo3STgybDZzeTdHcU1pNmtSOVVmWjBJMVQ0SFRHTHdVTXE2OExKUWY4MG9QSTVR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-26",
-      "image": "https://www.cnet.com/a/img/resize/75731cf5b2990fc9295415fa2e885557259eb7b3/hub/2025/09/22/223a9dfd-d39d-4225-972f-f105b6f0c39f/roborock-commerce.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "is_preferred": true
+      "image": "",
+      "is_preferred": false
     },
     {
       "brand": "Roborock",
       "title": "Roborock releases new robot vacuum with roller mop in more countries",
-      "summary": "Roborock has released the Qrevo Curv 2 Flow robot vacuum and mop in Europe. Unveiled in 2025 and already available in the US, this is the brand’s first model to feature a roller mopping system. Other ...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Roborock-releases-new-robot-vacuum-with-roller-mop-in-more-countries.1234775.0.html",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2lYVGFqcjBEeFowR3ZSbmZSTV8zV2pmMS00dzhqLUlEeFVCbE90bVM2bk0yNmZ1cUZ1cEE3dHJsbWdIVHo0NnQ3M1RGRF9RNXlzUmdVSWJRUFAxT2JDWU0wcHptNXkwNDRqTFZCQk...",
+      "source": "Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2lYVGFqcjBEeFowR3ZSbmZSTV8zV2pmMS00dzhqLUlEeFVCbE90bVM2bk0yNmZ1cUZ1cEE3dHJsbWdIVHo0NnQ3M1RGRF9RNXlzUmdVSWJRUFAxT2JDWU0wcHptNXkwNDRqTFZCQkRhN3lZczlBTTZ2R1B6eHctQWVfWkVhS2JJTE9Ocl9TVkdWMl9yU19vRDgtMTlVM3JrazEwYWx2Z2NwSU1EVHBTNFVyOA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-26",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Roborock-Qrevo-Curv-2-Flow.jpg",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Roborock",
-      "title": "Roborock Saros 20: Powerful new robot vacuum now available in Europe",
-      "summary": "Roborock has launched the Saros 20 robot vacuum and mop in Europe. Now available to pre-order with an introductory discount, this is one of the brand’s most powerful models to date. Its features inclu...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Roborock-Saros-20-Powerful-new-robot-vacuum-now-available-in-Europe.1234776.0.html",
-      "date": "2026-02-26",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Roborock-Saros-2092.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Roborock",
-      "title": "Roborock launches new powerful P20 Max robot vacuum",
-      "summary": "Roborock has launched a new robot vacuum, the P20 Max, in China. Compared to its predecessor, the model has significantly higher suction power, a new climbing chassis and a slightly slimmer body. A gl...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Roborock-launches-new-powerful-P20-Max-robot-vacuum.1233598.0.html",
-      "date": "2026-02-24",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Roborock-P20-Max-Robot-Vacuum-Cleaner.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Roborock",
-      "title": "Roborock robot vacuum with roller mop launching in Europe soon",
-      "summary": "The Roborock Qrevo Curv 2 Flow robot vacuum and mop appears to be about to launch in Europe. Unveiled in late 2025, this new model is now listed at the brand’s online store in Germany. It is the first...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Roborock-robot-vacuum-with-roller-mop-launching-in-Europe-soon.1233552.0.html",
-      "date": "2026-02-24",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Roborock-Qrevo-Curv-2-Flow69.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Roborock",
-      "title": "This 'powerhouse' robot vacuum can clean even deep-pile carpets with ease — and it’s finally available in the UK",
-      "summary": "We rated this Roborock bot as one of the very best robot vacuums for carpet....",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/home/robot-vacuums/this-powerhouse-robot-vacuum-can-clean-even-deep-pile-carpets-with-ease-and-its-finally-available-in-the-uk",
-      "date": "2026-02-24",
-      "image": "https://cdn.mos.cms.futurecdn.net/peaiZZQzn4mCG4n5XUSTWc-2560-80.jpg",
+      "title": "The Roborock Qrevo Curv 2 Flow Is Gorgeous and Reasonably Priced",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRnFMbHptQXMwWUppNXJsYWVCZVo5OXZtYTZuNUh0UzlrWFAxZWVnSTAtRnVFWTJSZzZaM3I1SUkzTXdMWGgwUWMta1hTdUM1UGJnenhzbUM4bmg2aXN5VmVmaVM2S0k?oc=5\" targ...",
+      "source": "WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRnFMbHptQXMwWUppNXJsYWVCZVo5OXZtYTZuNUh0UzlrWFAxZWVnSTAtRnVFWTJSZzZaM3I1SUkzTXdMWGgwUWMta1hTdUM1UGJnenhzbUM4bmg2aXN5VmVmaVM2S0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-23",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "Roborock",
-      "title": "Robot Vacuum Picks Up Your Socks With a Mechanical Arm",
-      "summary": "People have spent years waiting for robot vacuums to handle everything on the floor. The fantasy is simple: the smarter these machines get, the less you’ll ever need to bend down. Yet after all the AI...",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/02/23/robot-vacuum-picks-up-your-socks-with-a-mechanical-arm/",
-      "date": "2026-02-23",
-      "image": "https://the-gadgeteer.com/wp-content/uploads/2026/02/Roborock-Saros-Z70-1.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Roborock",
-      "title": "Roborock Saros Z70 Black 22,000Pa Robot Vacuum and Mop for $1,300 + free shipping",
-      "summary": "That's a $700 discount on the page and the best price this particular model has ever been on Amazon. Buy Now at Amazon \r\n Features\r\n <ul> <li>22,000Pa suction power</li> <li>Ultra-slim 3.14'' design</...",
-      "source": "Dealnews.com",
-      "url": "https://www.dealnews.com/products/Roborock/Roborock-Saros-Z70-Black-22-000-Pa-Robot-Vacuum-and-Mop/497764.html",
-      "date": "2026-02-23",
-      "image": "https://www.datocms-assets.com/64599/1771859046-61sntlkvmbl-ac_sl1500.jpg?h=1024&w=1024",
-      "is_preferred": false
-    },
-    {
-      "brand": "Roborock",
-      "title": "New Roborock Saros 20 robot vacuum appears ahead of launch",
-      "summary": "Roborock has listed the Saros 20 robot vacuum and mop at its online store in Germany. The product page indicates when this new model could be released in Europe. Its features include up to 36,000 Pa s...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/New-Roborock-Saros-20-robot-vacuum-appears-ahead-of-launch.1232766.0.html",
-      "date": "2026-02-23",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Roborock-Saros-20-appears.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Roborock",
-      "title": "This Roborock Robot Vacuum Just Hit Its Lowest Price Ever",
-      "summary": "Amazon is currently offering the Roborock Qrevo Robot Vacuum and Mop Combo for $399.99, down from its regular price of $649.99. This is the lowest price...",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/2026/02/ah-real-deal-roborock-qrevo-robot-vacuum-mop-drops-to-just-799-51-off.html",
-      "date": "2026-02-20",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/04/roborock-qrevo-master-robot-vacuum-deal.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "Dreame launches new smart trash can with auto bag dispensing",
-      "summary": "The Dreame Life SP09 Pro Smart Trash Can has been launched in the brand’s home market of China. This smart home product has features including automatic opening and automatic bag dispensing. It is unc...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Dreame-launches-new-smart-trash-can-with-auto-bag-dispensing.1234490.0.html",
-      "date": "2026-02-25",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dreame-SP09-smart-trash-can.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "Amazon Just Slashed Over $300 Off a Seriously Advanced Dreame Robot Vacuum",
-      "summary": "It vacuums, mops and can run for up to 100 days without maintenance, and right now it's on sale for $650 with this deal....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/dreame-l40s-ultra-ae-robot-vacuum-deal/",
-      "date": "2026-02-24",
-      "image": "https://www.cnet.com/a/img/resize/afe17bd0d7f1fa246a6506acb4df4c18ad32197c/hub/2026/02/24/be38bff9-8c8a-41c3-80e3-ddda0477079f/dreame-l40s-ultra-ae-robot-vacuum.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "is_preferred": true
-    },
-    {
-      "brand": "Dreame",
-      "title": "Dreame - D10s-AU - Robot Vacuum- $169.99 Exc Delivery, Free for Amazon Members",
-      "summary": "Robo vacuum sale on Amazon atm .. plenty of brands are discounted. dreame D10s Robot Vacuum Cleaner and Mop, 5000Pa Power Suction, LDS Navigation, Up to 280 Minutes Runtime, App Control, AU Model...",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/949083",
-      "date": "2026-02-21",
-      "image": "https://files.ozbargain.com.au/n/83/949083x.jpg?h=98736456",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "Suck Up a Record-Low Price on the Dreame L40 Ultra Gen 2 Robo Vac",
-      "summary": "Grab this powerful robot vacuum while it's at its lowest price and let it handle cleaning the floors for you....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/dreame-l40-ultra-gen-2-deal/",
-      "date": "2026-02-19",
-      "image": "https://www.cnet.com/a/img/resize/c326483639cc9f51992c81ecfc0950d6cf3d76c7/hub/2026/02/19/791b5a58-06f2-4bf9-b182-b6ab9f931b5e/dreame-l40-ultra-gen-2-robot-vacuum-and-mop.png?auto=webp&fit=crop&height=675&width=1200",
-      "is_preferred": true
-    },
-    {
-      "brand": "Dreame",
-      "title": "This week's Best Buy deals: Save up to 35% on laptops, appliances, robot vacuums and more",
-      "summary": "Best Buy’s best sales this week include everything from TVs to headphones to appliances and air purifiers....",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/deals/best-buy-weekly-deals",
-      "date": "2026-02-18",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/fox_news_deals_best_buy_021726.png",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "New Dreame 165W power bank with retractable cable launches",
-      "summary": "The Dreame Life 165W Power Bank with Built-in Cable has arrived in China. This is the second accessory of its kind from Dreame, a brand known worldwide for its smart home products. Features of the gad...",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/New-Dreame-165W-power-bank-with-retractable-cable-launches.1229388.0.html",
-      "date": "2026-02-18",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dreame-Life-165W-Power-Bank-with-Built-in-Cable.png",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "[Prime] Dreame D10s Robot Vacuum Cleaner and Mop $169.99 Delivered @ Dreame Official AU via Amazon AU",
-      "summary": "back to the boxing day sale price, could be a good combination with the recent dreame z10 cordless?...",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/948661",
-      "date": "2026-02-18",
-      "image": "https://files.ozbargain.com.au/n/61/948661l.jpg?h=7aa397eb",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "Show HN: Controlling an air-gapped vacuum from Home Assistant via text to speech",
-      "summary": "Listen to this post: I have a Dreame L40 Ultra to vacuum and mop around my home.\nThe Dreame app requires the robot to have internet access to receive commands, send status information, or modify sched...",
-      "source": "Wip.tf",
-      "url": "https://wip.tf/posts/controlling-an-air-gapped-robot-vacuum-from-home-assistant-using-synthesized-speech/",
-      "date": "2026-02-17",
-      "image": null,
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "Hobby coder accidentally creates vacuum robot army",
-      "summary": "A hobby coding experiment reportedly exposed live camera feeds, microphones, and floor plans from thousands of robot vacuums worldwide....",
-      "source": "Malwarebytes.com",
-      "url": "https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army",
-      "date": "2026-02-17",
-      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/02/robot-vacuum.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dreame",
-      "title": "Dreame Aqua10 Ultra Roller Robot Vacuum and Mop",
-      "summary": "Meet the Dreame Aqua10 Ultra Roller, a high-end cleaner that vacuums, mops, and maintains itself for whole-home care with less effort. Always-fresh AquaRoll mopping: Continuously rinses the roller wit...",
-      "source": "Gadget Flow",
-      "url": "https://thegadgetflow.com/?p=718627",
-      "date": "2026-02-17",
-      "image": "https://thegadgetflow.com/wp-content/uploads/2026/02/Dreame-Aqua10-Ultra-Roller-04.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Ecovacs",
-      "title": "Robot Vacuum Picks Up Your Socks With a Mechanical Arm",
-      "summary": "People have spent years waiting for robot vacuums to handle everything on the floor. The fantasy is simple: the smarter these machines get, the less you’ll ever need to bend down. Yet after all the AI...",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/02/23/robot-vacuum-picks-up-your-socks-with-a-mechanical-arm/",
-      "date": "2026-02-23",
-      "image": "https://the-gadgeteer.com/wp-content/uploads/2026/02/Roborock-Saros-Z70-1.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Ecovacs",
-      "title": "Ecovacs Deebot Neo 2.0 Robot Vacuum Cleaner $279 @ ALDI Special Buys",
-      "summary": "On Sale Sat 07 Mar Features: Dual function as a vacuum and mop with carpet detection TrueMapping™ technology 180 minutes runtime 5000Pa suction power 400ml dustbin 420ml …...",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/949253",
-      "date": "2026-02-23",
-      "image": "https://files.ozbargain.com.au/n/53/949253l.jpg?h=c3aa2bf6",
-      "is_preferred": false
-    },
-    {
-      "brand": "Ecovacs",
-      "title": "Hobby coder accidentally creates vacuum robot army",
-      "summary": "A hobby coding experiment reportedly exposed live camera feeds, microphones, and floor plans from thousands of robot vacuums worldwide....",
-      "source": "Malwarebytes.com",
-      "url": "https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army",
-      "date": "2026-02-17",
-      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/02/robot-vacuum.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Ecovacs",
-      "title": "This Ecovacs Presidents Day Deal Is the Ultimate Shortcut to a Crumb-Free Home on a Budget",
-      "summary": "The deals are already disappearing, but there's still time to save your weekends. Stop spending your precious time off mopping and save $601 with this Ecovacs Deebot X9 Pro Presidents Day deal....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/ecovacs-deebot-x9-pro-omni-robot-vacuum-deal/",
-      "date": "2026-02-16",
-      "image": "https://www.cnet.com/a/img/resize/98b9e01d3113849a3b6656206a7cec6b2952c423/hub/2026/02/16/087599ff-1e38-48f5-9cf3-1a558a462334/ecovacs-deebot-x9-pro.png?auto=webp&fit=crop&height=675&width=1200",
-      "is_preferred": true
-    },
-    {
-      "brand": "Ecovacs",
-      "title": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
-      "summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, D...",
+      "title": "Roborock’s Rover walks, jumps, and vacuums your stairs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHhzeWFORDB5R29ILVZQSXloQ0RpTGhlOUFIQThBX0RSTlkzQnA3d2JGRW5ORGNWVFFacnMxZDR4aGV4akFKOGt3TS1UVHFkQWZBak55bUNwRUcwSHJwcW95eEpSdnRscWtTYXJucl...",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
-      "date": "2026-02-14",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DSC_1200.jpeg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHhzeWFORDB5R29ILVZQSXloQ0RpTGhlOUFIQThBX0RSTlkzQnA3d2JGRW5ORGNWVFFacnMxZDR4aGV4akFKOGt3TS1UVHFkQWZBak55bUNwRUcwSHJwcW95eEpSdnRscWtTYXJuclFpWEtOcGtUYkVDSlRRR2Q5S1Y0NHZGVkowcTRGVXpTZDhtR0JBdEhPVXhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-06",
+      "image": "",
       "is_preferred": true
     },
     {
-      "brand": "Ecovacs",
-      "title": "Upgrade Your Home With the Best Presidents Day Appliance Deals I've Found So Far",
-      "summary": "Whether you're looking for small appliances or larger ones, Presidents Day is coming to help you pay anything but full price....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/presidents-day-appliance-deals-2026/",
-      "date": "2026-02-09",
-      "image": "https://www.cnet.com/a/img/resize/aad284e49d9181969bf029283982234fab07d94c/hub/2024/05/14/602e8283-3560-4b5b-bc87-434578e21bfe/lg-bundle.png?auto=webp&fit=crop&height=675&width=1200",
+      "brand": "Roborock",
+      "title": "CES 2026: So far, the best new robot vacuums are from Roborock, Dreame, and Narwal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3lTdWJhYk1jSjNrLU9Day1TeXMyQ0x0ZUk5SEV6RUNuM2lOVGNpVUVkOWZEYk5TaXdYbXl0U0poaEZwRjF5UU9xZU51WHRub2RNa2tHdXZFMzdPdURCeTdNaWtYMEVSM1lZMmhyN2...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3lTdWJhYk1jSjNrLU9Day1TeXMyQ0x0ZUk5SEV6RUNuM2lOVGNpVUVkOWZEYk5TaXdYbXl0U0poaEZwRjF5UU9xZU51WHRub2RNa2tHdXZFMzdPdURCeTdNaWtYMEVSM1lZMmhyN2Uxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-09",
+      "image": "",
       "is_preferred": true
     },
     {
-      "brand": "Ecovacs",
-      "title": "Amazon Discounts Anker's Most Popular MagSafe-Compatible Chargers, Power Stations, and More",
-      "summary": "Amazon this week has a few notable sales from popular brands like Anker, Ecovacs, and Jackery. These include discounts on everything from MagSafe-compatible chargers to portable power stations and rob...",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/01/29/amazon-anker-popular-chargers/",
-      "date": "2026-01-29",
-      "image": "https://images.macrumors.com/t/KwFeQ-RqN7RdXjxKOazT9Jdv1i0=/2500x/article-new/2026/01/anker-january-charging-sale.jpeg",
+      "brand": "Roborock",
+      "title": "Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWdvOFA5ZDlOUTRWTWcyLWxBWlhGX0hxbnFTbmh5ZnpHTE1pbS1hNHZMQ1BiU3hOTENqX2JYUlNQMEVuSTJIRkVCSWsyUWRBM2xBVUJJOXFyanRUVnNTQmdFc0F4WGNWWGdmaVlyNn...",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWdvOFA5ZDlOUTRWTWcyLWxBWlhGX0hxbnFTbmh5ZnpHTE1pbS1hNHZMQ1BiU3hOTENqX2JYUlNQMEVuSTJIRkVCSWsyUWRBM2xBVUJJOXFyanRUVnNTQmdFc0F4WGNWWGdmaVlyNnN2WGgyNVZicG5oX0NVRkx1VHd2Nk1kYVJSUnNDRXZKQVJtNDhRV3ZWNVVDampmUUtVZFJ5X0s2dWFSX2xabWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-06",
+      "image": "",
       "is_preferred": false
+    },
+    {
+      "brand": "Roborock",
+      "title": "The Wildest Robot Vacuum at CES Can Clean While Climbing Stairs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmV1Z2pzaFVyZ1JhTE40Qm1ZVDVqdTNieVhONmpaSUpJc2xEdEFBSXFoM2RVdGtmMHhILWIzUmVZaUtUcGVCSEZ0RmZ4ZFBtNzVlOE9RNkN1SWh5cGozRUxuWENJbFlUeWJDbXYtOU...",
+      "source": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmV1Z2pzaFVyZ1JhTE40Qm1ZVDVqdTNieVhONmpaSUpJc2xEdEFBSXFoM2RVdGtmMHhILWIzUmVZaUtUcGVCSEZ0RmZ4ZFBtNzVlOE9RNkN1SWh5cGozRUxuWENJbFlUeWJDbXYtOUFvcUdveFZGZWhscUFnX2xSaVpzTElTUHRuY0J5RGhrREFoYnE0VXZiRFJOcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-08",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Roborock",
+      "title": "What's the best robot vacuum to buy in 2026? My definitive list after testing 30+ at home.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jb2tOYU80LTJyQzZkUExfbWJxMDU4cnNTV1R2MmpkaTVab2ZvSEdaeTdoQzhhOVoydFpiWTlvemppVzdOOGtPSXlaY1hNYXlEOGtCRkY0eU1jRWVZTWtqcG1R?oc=5\" target=\"_bl...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jb2tOYU80LTJyQzZkUExfbWJxMDU4cnNTV1R2MmpkaTVab2ZvSEdaeTdoQzhhOVoydFpiWTlvemppVzdOOGtPSXlaY1hNYXlEOGtCRkY0eU1jRWVZTWtqcG1R?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-13",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Roborock",
+      "title": "Roborock’s new Saros 20 robot vacuum cleaners got a climbing upgrade",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE04dVBGZDJUbFhqV1QzcTY3bHdmS21DNWdncVN3ZWU5YnNrUE5WblpDdWQzcEY4aHJXQU9vOVJRSm83ZmVRVlE4bE4tY0ZxWlh1Qmg2OXhEV25DMjJicjY5c0FhQW81aWlwSTRvZGZtR1...",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dVBGZDJUbFhqV1QzcTY3bHdmS21DNWdncVN3ZWU5YnNrUE5WblpDdWQzcEY4aHJXQU9vOVJRSm83ZmVRVlE4bE4tY0ZxWlh1Qmg2OXhEV25DMjJicjY5c0FhQW81aWlwSTRvZGZtR1VmQmxGcF9nRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-06",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Roborock",
+      "title": "CES 2026: 3 new Roborock robot vacuums are here, and a stair-climbing vacuum is coming",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9LME1raV83LUkydG55d0VwZTVUWmVjOHVmbU9paTktLVpkeHlGU0JPaVJhM2MtYURxMC03XzhXa0JlSXphRHAyS3lQYlZYY3hEY1JzMl9XcHZNRHluNnNBLVVqbTRhTXVyMVRWQXVGam...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LME1raV83LUkydG55d0VwZTVUWmVjOHVmbU9paTktLVpkeHlGU0JPaVJhM2MtYURxMC03XzhXa0JlSXphRHAyS3lQYlZYY3hEY1JzMl9XcHZNRHluNnNBLVVqbTRhTXVyMVRWQXVGamlSVVl0djlQTGJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-06",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "Dreame Robot Vacuum Buyer’s Guide 2026: Best Models Compared",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tNGJUX01fbGhZRjVKZ2pNbVlfa0E4amNtQjNrZk9wc05YZ1o2U01zT0U1NlRlQTVrU1A4MldCVENWMXpUcDFWeVBaTU41Y0NZbmhzMDBvdVN2YmtvRUE?oc=5\" target=\"_blank\">...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tNGJUX01fbGhZRjVKZ2pNbVlfa0E4amNtQjNrZk9wc05YZ1o2U01zT0U1NlRlQTVrU1A4MldCVENWMXpUcDFWeVBaTU41Y0NZbmhzMDBvdVN2YmtvRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-23",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "The new Eufy C28 is the most budget-friendly roller mop robot vacuum. I tried it against the top 2 in its class.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmlfRWo3V0RvaUNLdUtGb1lPVlRMOFRtNE5zVmpVZ2gtS2ZvY2ZqdHpCUDk4aFZyMkJ6VjZodTFCdllpcmF6bjZCQllJRU5ZT1ZuTlNtaWJFUENTaXNMTzE4R0N2a2pKMFExOXhyUn...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmlfRWo3V0RvaUNLdUtGb1lPVlRMOFRtNE5zVmpVZ2gtS2ZvY2ZqdHpCUDk4aFZyMkJ6VjZodTFCdllpcmF6bjZCQllJRU5ZT1ZuTlNtaWJFUENTaXNMTzE4R0N2a2pKMFExOXhyUnRKajdCTmFnVnJ4Wl9MeDgxdTlTY3dVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-28",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "Record low robot vacuum deal: Save $800 on the 2025 Dreame X50 Ultra, now $899.99",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA2cFlDdkRFZjBEZkJhemFSU1ZfNUFCNWJzRXJJd2o0V3dHcGJfQkt4TGRNQW1IbU81RTZfRDdBV3ZjN05yQlJnTGpodHlrdHJDdXJFdy1KLTU5UkRsM2NIY0ozejVPS3h0Z1JwZVM4WF...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2cFlDdkRFZjBEZkJhemFSU1ZfNUFCNWJzRXJJd2o0V3dHcGJfQkt4TGRNQW1IbU81RTZfRDdBV3ZjN05yQlJnTGpodHlrdHJDdXJFdy1KLTU5UkRsM2NIY0ozejVPS3h0Z1JwZVM4WFZWQTY0akoyM2p3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-24",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "Dreame's robot vacuum with an arm is back at CES 2026 and it can do more than pick up shoes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGh3TFI0bllZRndEOWFXX1NwekRTYl8tRlQ0cVMzVUF6ZXlzNkJUOXo0NGVfLS1LeGVjTlhQUjkxVWowWkF6RVFzWEdQUFZsQlZieV9PaDFMWUc1ZXNSYU5YcVFiaERlUGZmTlhEdi...",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGh3TFI0bllZRndEOWFXX1NwekRTYl8tRlQ0cVMzVUF6ZXlzNkJUOXo0NGVfLS1LeGVjTlhQUjkxVWowWkF6RVFzWEdQUFZsQlZieV9PaDFMWUc1ZXNSYU5YcVFiaERlUGZmTlhEdi1JZEQ3TS1aU3V0LW9sdlJSZUptOE9ldFlvZ1cxcUFVX0dhbjVYdU9kN3BjVkFRcklrODRZVWRUbjF3eURsY3piUVZkNENjcHZzeTZ6Z0V4bHVrS3R2VnlzbU9oZ1UwYnVwUkllUWRSU3N4cW9FeGxJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-06",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "Robot Vacuum Threshold Climb Test – MOVA Z60 Ultra vs Dreame Aqua10 Ultra Roller",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wVjVjVjNvbUtFMjdmdzFNQTJab0JvcnJaaTZlUFYwRDUtSFZqaGtSTU5UZWNtS3psQVNpbEJXR3FhRnBTblNOUkZQYkxVOXM3aW1iMTUzeklQU0YtOVA3Q1QwWnVqQQ?oc=5\" targe...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wVjVjVjNvbUtFMjdmdzFNQTJab0JvcnJaaTZlUFYwRDUtSFZqaGtSTU5UZWNtS3psQVNpbEJXR3FhRnBTblNOUkZQYkxVOXM3aW1iMTUzeklQU0YtOVA3Q1QwWnVqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-25",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "My Family's Review of the Dreame L40s Ultra CE Robot Vacuum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQNkhURl9KUWM0YUJ2eHFFbTN6TEE0azEyb1doaUZNWXVIYUVRajdlUk04VG1nVnV2d3dmU1VpdVI4X3RJcTVnblE2NkZnUDEydEZoeWZwM3VnbTNlYUJrc01nSlY5LWl4bEdjWDY3RH...",
+      "source": "Today's Parent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkhURl9KUWM0YUJ2eHFFbTN6TEE0azEyb1doaUZNWXVIYUVRajdlUk04VG1nVnV2d3dmU1VpdVI4X3RJcTVnblE2NkZnUDEydEZoeWZwM3VnbTNlYUJrc01nSlY5LWl4bEdjWDY3RHRxckk5YUVmT0ZZakdlLUV3bGRoOVBNeGVBdHRiMEgzeXhNcVBGWU9RSDFfcUtPUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-06-20",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dreame",
+      "title": "This Dreame robot vacuum does the “hands-off” thing for real, and it’s down to $299.99",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15eXpLNzVpT0RZMW43dDdUdVkwNk9qSEhzcVlfYkgtRzdXUlhtOWdBQV94dk1XeHdvbnMxdGNsLTZXZHRDTU40TmozZXdXbUNGbUo5U3Z4WVU3ckhJZHFvOUE2UkVySTVjeGo0Yw?oc=...",
+      "source": "Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eXpLNzVpT0RZMW43dDdUdVkwNk9qSEhzcVlfYkgtRzdXUlhtOWdBQV94dk1XeHdvbnMxdGNsLTZXZHRDTU40TmozZXdXbUNGbUo5U3Z4WVU3ckhJZHFvOUE2UkVySTVjeGo0Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-17",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dreame",
+      "title": "The Curator: I tried the Dreame robot vacuum and mop—here’s my honest review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOblFWQmh2Z0FlNFpJRndvcUp6QnFkWHVDTVRYOXJmOHh1VFdmZTRORkN6eHNTX3pmV1dnRDZtdEMyeHBad0ZtUkdWNy1rXy1XQWYzTmpQUFg3d2JPN1U3eUFpOGhETlh1ZGlTX0l6ck...",
+      "source": "Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOblFWQmh2Z0FlNFpJRndvcUp6QnFkWHVDTVRYOXJmOHh1VFdmZTRORkN6eHNTX3pmV1dnRDZtdEMyeHBad0ZtUkdWNy1rXy1XQWYzTmpQUFg3d2JPN1U3eUFpOGhETlh1ZGlTX0l6ckYwWjc3dXVtZlYzemx0RHcza1BvT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-16",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dreame",
+      "title": "Eufy C28 Undercuts Dreame And Roborock In Tests",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0hZNnhCZ3hteVFiWXlMYmhrZG54Qi1yZkxnMmwzNzZFdXhlY3FRb1JQbW1jdDF2QlVRclMzaFVrUExkb0x3UjVBdV9zMnBTTWNkZlBfWVNBZm1URW5NQjVzREZSclcxaTUtYlRNOD...",
+      "source": "findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0hZNnhCZ3hteVFiWXlMYmhrZG54Qi1yZkxnMmwzNzZFdXhlY3FRb1JQbW1jdDF2QlVRclMzaFVrUExkb0x3UjVBdV9zMnBTTWNkZlBfWVNBZm1URW5NQjVzREZSclcxaTUtYlRNODFVUnlINXI1X21QcHJVcC1VTGhVb9IBiwFBVV95cUxPRVNDbFFPaUVSUGpnNjlCTjhTdjR4ZmhScE9HMVZMTS1ZY0l3RW9EdFNGYWp0M3pTaHhMa24tQmFoODhfOTUyS0YwR1pzRklOLTF2VVNXWTh5TjVlTUV1M18yQWZRMWRWWndMODFYeG9iTzRsUXM3WXVvUzVzRlVBNlJsMzNLWi1RbVpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-28",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dreame",
+      "title": "Dreame's latest robot vacuum concept has slightly terrifying legs that can climb full-size stairs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUd3a1Zodl9laUVUblNvU0pnaWZqWElzX0dUbzBnazJrWWh0cnl2S1FjdWpQUlhOY3BLdVB6S0ZsTVFlaUVrS1FVMG95MHpNOFZDanIxSmpxMXNkcUE1OFFpWFpvUUxVNnpzeWlFaz...",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUd3a1Zodl9laUVUblNvU0pnaWZqWElzX0dUbzBnazJrWWh0cnl2S1FjdWpQUlhOY3BLdVB6S0ZsTVFlaUVrS1FVMG95MHpNOFZDanIxSmpxMXNkcUE1OFFpWFpvUUxVNnpzeWlFazVrWWxpbUphS0tsaEI3eUFaN3dsVUNWN2RFLWRQcFhGWUh1S2dqZDc5Yi15NHBGYl8zUmRhazB4akFlcU1aTXZnNTBRYUZCaEZ5dnNEdkdYVzBKSHVrd0NMaTZ3bUFKMHlmZjlnX0djMzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-06",
+      "image": "",
+      "is_preferred": true
     },
     {
       "brand": "Ecovacs",
@@ -3829,6 +3759,16 @@
       "source": "Mashable",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPQ2JQN3RHOGF3azU5bGxCOVNKaEJ1OHdHdXZ4U1ZGWmhuM3NvTHczMDFkNVFzWURoUzk1RUZKcHNKT1RJdWtwbnZzRmExaUJsSTJUZHF5YUl6enQzaDhGcFZEYkdhalYzQjdGSlZRQUhBUjlxbHVB?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-27",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "Ecovacs Deebot X11 OmniCyclone: incredible suction, smart mopping, perfect pet-hair pickup.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBhcnZfNzVMcUFNODlQSFk5VnBPdEpRQ2lFYlFUTVdEOUhvWVRBZXlta1Nad09iTnlLams4V1lvQ2E2endYa1JocXc1dXVzNjZISzRzblhKbzFkdU9aVHhZSUtxZ0hudnQ4VXBlQ2V3?o...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhcnZfNzVMcUFNODlQSFk5VnBPdEpRQ2lFYlFUTVdEOUhvWVRBZXlta1Nad09iTnlLams4V1lvQ2E2endYa1JocXc1dXVzNjZISzRzblhKbzFkdU9aVHhZSUtxZ0hudnQ4VXBlQ2V3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-25",
       "image": "",
       "is_preferred": true
     },
@@ -3844,182 +3784,172 @@
     },
     {
       "brand": "Ecovacs",
-      "title": "Ecovacs Deebot X11 OmniCyclone: incredible suction, smart mopping, perfect pet-hair pickup.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBhcnZfNzVMcUFNODlQSFk5VnBPdEpRQ2lFYlFUTVdEOUhvWVRBZXlta1Nad09iTnlLams4V1lvQ2E2endYa1JocXc1dXVzNjZISzRzblhKbzFkdU9aVHhZSUtxZ0hudnQ4VXBlQ2V3?o...",
-      "source": "Vacuum Wars",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhcnZfNzVMcUFNODlQSFk5VnBPdEpRQ2lFYlFUTVdEOUhvWVRBZXlta1Nad09iTnlLams4V1lvQ2E2endYa1JocXc1dXVzNjZISzRzblhKbzFkdU9aVHhZSUtxZ0hudnQ4VXBlQ2V3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "title": "Mega-popular $279 robot vacuum is back on sale at Aldi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0Rjc0p1UkY1bTRteGg5aUcxcWMyQWs5UGxjRHpFN01WUzR0dUpVUmpBODYxWmlEbWZLQ3NXTlk4Y1JQOVF5RWI1d2ItQzExb3MyRV9OaGQ3MVU0Sm9xWHlJUURXekxqSC1IQUpuVW...",
+      "source": "GadgetGuy",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0Rjc0p1UkY1bTRteGg5aUcxcWMyQWs5UGxjRHpFN01WUzR0dUpVUmpBODYxWmlEbWZLQ3NXTlk4Y1JQOVF5RWI1d2ItQzExb3MyRV9OaGQ3MVU0Sm9xWHlJUURXekxqSC1IQUpuVWFEQWRVVVVoclNxTF9kbFAyeXpobjM4bnowWm9jc0MwbnQ0ZGxVLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-25",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "I’ve tested and loved 6 Ecovacs Deebot robot vacuums – the T50 Max Pro Omni has been the first to disappoint me",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMW80OEVGYjBXU00wOEFDNmxOSXIyYll4NHRGcFk0U0lNdFZrWGpQQjYxTWU5LVlwZ3NLTkFuc29GaVBvZndkZlFXR19MV2JERFVwODVRRVhvemFlZ2hKcWl3d1JRLVZzV2Z2MVBCST...",
+      "source": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMW80OEVGYjBXU00wOEFDNmxOSXIyYll4NHRGcFk0U0lNdFZrWGpQQjYxTWU5LVlwZ3NLTkFuc29GaVBvZndkZlFXR19MV2JERFVwODVRRVhvemFlZ2hKcWl3d1JRLVZzV2Z2MVBCSTVMeXpGVDdQX1NRaXR6dmsySmF2UjZTSXI4UkE5Y2FodERHdVNWU29QOEM1OVV4U1hjaVIwODNCS3UxZkxmSlFUWFRhaktYRzNnTXRCcDdweDRDdHNfNUxwSGdKQWtfNTB0NDg1MjVRLTlpaTZXRFRtODlZVURxTldh?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-09-19",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "'Cleaning up after my pet has never been easier': I just tested this sub-$200 robot vacuum that's perfect for beginners",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmV2VSQnhWd3o3clR0RFN5WXpXZDFnRFdyRXhSZ2FIUkJWVV9VMjc3ZHZvRWxPMGFVaTljc2QtQ3M2c0xON1Zmb2ZFcGJuT3FqWmRpLUp0WFllQWRqVXNZUl9kbFBfRzA?oc=5\" targ...",
+      "source": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmV2VSQnhWd3o3clR0RFN5WXpXZDFnRFdyRXhSZ2FIUkJWVV9VMjc3ZHZvRWxPMGFVaTljc2QtQ3M2c0xON1Zmb2ZFcGJuT3FqWmRpLUp0WFllQWRqVXNZUl9kbFBfRzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-12",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "Ecovacs DEEBOT X11 OMNICYCLONE vacuum/mop review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXNybEZkQTZtTVB1V1QzVXJRa21UTkxBVmJCVHk1UnQ0WHFkWWdyMF93Mk85NzAyVFl5QmJyQVQwZ2RuX2k1ekxJcUdwekZuYXlfWWhMZ25ZOEhEV1JoRWFZZ1BOTjVlbi12eVR1WE...",
+      "source": "The Gadgeteer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXNybEZkQTZtTVB1V1QzVXJRa21UTkxBVmJCVHk1UnQ0WHFkWWdyMF93Mk85NzAyVFl5QmJyQVQwZ2RuX2k1ekxJcUdwekZuYXlfWWhMZ25ZOEhEV1JoRWFZZ1BOTjVlbi12eVR1WEZNbTViRVp4aHpDS3ZhVXlaX0N3ekNIUHJrSTA0Xy04bWpuQ2kzRzJvbE1SY2sxRkFST1FJQ2Uwd1MwSmlOcVpDN3VSOUM0OGo2LWc3WUJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-09-04",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "Ecovacs Deebot N20 Pro Review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjNoci1TT2xGRDhnVnFHWDlSMTl0ak56enRnZ3dFdlBjQkJMV0lhTGQwU2ExWkoydkdzczdDdWJKeUhycnNwVzIwckNxdlphNkJmMU8wZDZUbUNHZE1zTGlDaEN0WDZ6X3FKMFlqRk...",
+      "source": "TechGearLab",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjNoci1TT2xGRDhnVnFHWDlSMTl0ak56enRnZ3dFdlBjQkJMV0lhTGQwU2ExWkoydkdzczdDdWJKeUhycnNwVzIwckNxdlphNkJmMU8wZDZUbUNHZE1zTGlDaEN0WDZ6X3FKMFlqRkQ5U1l2aUQzRkxKVDhsYXh3QktvVUlSUzJZSFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-09",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "The Deebot X8 Pro Omni maintains floors well, but you'll occasionally get your hands dirty",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBvb1VJY25nRDBTYkhtT295eW5fQl9ZWFdiYUU3OGlmMXF1ZE5rY3pNT3JZT2NPcnZERnk4NXpKb2o1UlI0RzgtR0c4bGJmQkNaWkhqYUVuVnZxMlRQQ1BlR3Q0NDFDQy10c3Fpd0FoaW...",
+      "source": "Reviewed",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvb1VJY25nRDBTYkhtT295eW5fQl9ZWFdiYUU3OGlmMXF1ZE5rY3pNT3JZT2NPcnZERnk4NXpKb2o1UlI0RzgtR0c4bGJmQkNaWkhqYUVuVnZxMlRQQ1BlR3Q0NDFDQy10c3Fpd0FoaWhLTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-09-25",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Ecovacs",
+      "title": "Ecovacs Robot Vacuum Buying Guide for 2026: What to Know Before You Buy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaMzZVc0tDNnJZUU1mbmVyTkNJSTJyTHlSM3dHc2luMDhWVTh1dDI2dkMyaDRqZ3htWkZiUEI0ektQOHRINk9SaGRVb05zMktSMERxSXZTbw?oc=5\" target=\"_blank\">Ecovacs R...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaMzZVc0tDNnJZUU1mbmVyTkNJSTJyTHlSM3dHc2luMDhWVTh1dDI2dkMyaDRqZ3htWkZiUEI0ektQOHRINk9SaGRVb05zMktSMERxSXZTbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-03",
       "image": "",
       "is_preferred": true
     },
     {
       "brand": "Shark",
-      "title": "Amazon Deals of the Day: Score the New Galaxy Buds 4 and a $20 Amazon Gift Card",
-      "summary": "Plus, get half off the Shark AI Ultra robot vacuum and 20% off a two-pack of TP-Link Tapo smart light bulbs....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2-26/",
+      "title": "Highly rated vacuums: Shark, Dyson, Bissell and more",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzlZMXdEZ0FkUkFyUUhUOFViZkxfOEFNeUtGZGNSYV81bFRHdW9zOXVwaUE0Rzloc1RlQ1VSdFZoUnltVVFKb3FjRnR1WlRWYVJ1dW1hSjlZS0dROUlLekxjbHlPOC15ZEs2YzBXS3...",
+      "source": "ABC News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzlZMXdEZ0FkUkFyUUhUOFViZkxfOEFNeUtGZGNSYV81bFRHdW9zOXVwaUE0Rzloc1RlQ1VSdFZoUnltVVFKb3FjRnR1WlRWYVJ1dW1hSjlZS0dROUlLekxjbHlPOC15ZEs2YzBXS3VJb043N2hsYTFtWnl2by0xMFRzdEctelFrMWFXX2FCaXNmQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-26",
-      "image": "https://www.cnet.com/a/img/resize/3572575a7149d5867b0b81585e04a6aa4025b9b9/hub/2026/02/26/b49fae7c-8e69-46cd-a24c-b49fd9b024c8/amazon-dod-2-26.png?auto=webp&fit=crop&height=675&width=1200",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Shark",
+      "title": "Make short work of tidying your home with 50% off the Shark AI Ultra Voice Control Robot Vacuum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5POTh1RG4yNkdRbF9ZV012aExYeU1ncmpCY2lLLXFuWjEzNHdHdFpSUngtTURuZ1ZpMVNmQXB6a3dsRWNfc3ZubFFMSWdhRVBEUnVMX1ZYWExxUEFROXE3YlgtMEZRaER0VzctbjROR1...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5POTh1RG4yNkdRbF9ZV012aExYeU1ncmpCY2lLLXFuWjEzNHdHdFpSUngtTURuZ1ZpMVNmQXB6a3dsRWNfc3ZubFFMSWdhRVBEUnVMX1ZYWExxUEFROXE3YlgtMEZRaER0VzctbjROR1RfQ0V3dVFN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-27",
+      "image": "",
       "is_preferred": true
+    },
+    {
+      "brand": "Shark",
+      "title": "I can clean my whole home without lifting a finger — this is the self-sufficient robot vacuum of dreams",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXE5NHFwaHpra1MxWHNQNlhmQUE1Sng4RXRBbkdPOGl5R24tdjRDaUI5eG82blFJWm9HckRKZS10d3dCYjVFeGYxaUNJRjZDTDczNFpycldrQXFPRS1IRl9JT2F5Ymt1SWFkaW1JR0...",
+      "source": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXE5NHFwaHpra1MxWHNQNlhmQUE1Sng4RXRBbkdPOGl5R24tdjRDaUI5eG82blFJWm9HckRKZS10d3dCYjVFeGYxaUNJRjZDTDczNFpycldrQXFPRS1IRl9JT2F5Ymt1SWFkaW1JR0hfZEJiQ0lxNEd4amY1ZXFDeTdqWEZpdTUzUExDTkRLRV9KY0hXVkpYWFl6Y2xQaE50WWM3Z0lR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-27",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Shark",
+      "title": "Shark AI Ultra Robot Vacuum Drops 50% at Amazon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSjBkdEVid0VlNnlJU1JTWEctYWNJbEQwbWl1SlNOX01jcFN5VDgwbDJnaC1kQlZ3N0RBQVJ4aVhkbUVONk9lWnpfTTdDWXFUX18xNjdJeVp2UEpXWW02STkzLW0yajFqaGlBNmtfWU...",
+      "source": "findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSjBkdEVid0VlNnlJU1JTWEctYWNJbEQwbWl1SlNOX01jcFN5VDgwbDJnaC1kQlZ3N0RBQVJ4aVhkbUVONk9lWnpfTTdDWXFUX18xNjdJeVp2UEpXWW02STkzLW0yajFqaGlBNmtfWUZjSFN3Q2MxajBRZWpCdzZBbVpn0gGKAUFVX3lxTE5jLVU1cmRlZlU1NUl5Q2FsTGcySk1YZHdXS3M2a3o3Q0Y2bnVaejgyWmdlZ1BrZEgzdUhfN1Q0N0NIZTk2dFJyam05aF8zcHFhNEk1T3lDdWRxNXhYaFZxcUhsOVhEd1R4Vzd5bnRzT2lBb1U3eENMd3Ztb3hGYW0zdlR6aWxTdzJwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-25",
+      "image": "",
+      "is_preferred": false
     },
     {
       "brand": "Shark",
       "title": "Put Your Feet Up. Shark's AI Ultra Robot Vacuum Is 50% Off Right Now",
-      "summary": "Get cleaner floors with less hassle for just $300....",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSHdzVnVyOGpiY1lsVW5ZckN2V3BxMUxHVjNhZW9mSUcxNzNJRlRtcXFnRHBCRGpaaVNZcnB0djRPYWU3dW1UVVlza04yajBFUHk1dGxpbjNVSGJaNzhpanRxblhQTHRlWnJWVQ?oc=...",
       "source": "CNET",
-      "url": "https://www.cnet.com/deals/shark-ai-ultra-robot-vacuum-deal/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSHdzVnVyOGpiY1lsVW5ZckN2V3BxMUxHVjNhZW9mSUcxNzNJRlRtcXFnRHBCRGpaaVNZcnB0djRPYWU3dW1UVVlza04yajBFUHk1dGxpbjNVSGJaNzhpanRxblhQTHRlWnJWVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-20",
-      "image": "https://www.cnet.com/a/img/resize/18655ab3c1987c4408479e91d8550a5e7d9567f5/hub/2024/12/09/9c897a38-8f4e-4780-b8c0-aaa4ea3477c8/shark-ai-robo-vacc.png?auto=webp&fit=crop&height=675&width=1200",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "Shark",
-      "title": "Best vacuum cleaner",
-      "summary": "Vacuum cleaners have progressed leaps and bounds in terms of intuitive design, suction power and multipurpose use....",
-      "source": "The Denver Post",
-      "url": "https://www.denverpost.com/2026/02/17/best-vacuum-cleaner/",
-      "date": "2026-02-18",
-      "image": "https://www.denverpost.com/wp-content/uploads/2026/02/best-vacuum-cleaner.jpg?w=1024&h=576",
+      "title": "The Shark PowerDetect robot vacuum is more than $400 off, and at its lowest price ever",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjZUYWJNRndLN0UwOVJGWVh5S1ZpaXhPb3cyU1FvQTlDNmg2VU53Z0FkRXhiQjBjX2NpY3VmdkRpcDY4WW9YWWlpTnVtdWlNVTE5ZkpsOUdOTldUSnRQMXFWNWNVaXVNVmNFQzVmbi...",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjZUYWJNRndLN0UwOVJGWVh5S1ZpaXhPb3cyU1FvQTlDNmg2VU53Z0FkRXhiQjBjX2NpY3VmdkRpcDY4WW9YWWlpTnVtdWlNVTE5ZkpsOUdOTldUSnRQMXFWNWNVaXVNVmNFQzVmbi1uSzhSNnpFMGdNdDZVdjZyX25DT3ZvQTB5ZEZtTnhGNmhsbjZxNE1ndmtFYXczcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-12",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Shark",
-      "title": "Shark Matrix™ Plus 2-in-1 Self-Empty Robot Vacuum & Mop (Refurbished) for $134",
-      "summary": "Expires February 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 55% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\n2-in-1 Mop and Vacuum with Better Edge Cleaning and HEPA Base\r\n\n...",
-      "source": "Stacksocial.com",
-      "url": "https://www.stacksocial.com/sales/shark-matrix-plus-2-in-1-self-empty-robot-vacuum-and-mop-refurbished",
-      "date": "2026-02-17",
-      "image": "https://cdnp0.stackassets.com/c24212c3eed775f7d447379d1c55255df9c8c18c/store/6e37b9a7b7c663c6e0e0baa3d5467aeecb450fb1d392dc65097599895782/sale_329253_primary_image.jpg",
+      "title": "This Shark Vacuum ‘Picked Up Everything’ a Shopper's ‘Dyson Missed’ — and It’s on Sale at Amazon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBaTWRocHdKLW5tMkM2ei1ucnIyUGk2c0M4TlBUNmVtYjF2bDNNdDdsQm1lU3hvN3NZc3VMUFJ4WjVMbXlHOUhwNktVclVpTXNWSHFVdHR0b09zUHFsdm5iWnMxWk5KRkxROFR5WmlxZU...",
+      "source": "People.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaTWRocHdKLW5tMkM2ei1ucnIyUGk2c0M4TlBUNmVtYjF2bDNNdDdsQm1lU3hvN3NZc3VMUFJ4WjVMbXlHOUhwNktVclVpTXNWSHFVdHR0b09zUHFsdm5iWnMxWk5KRkxROFR5WmlxZUVWbmFxOEpkOEs4eTRWS0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-26",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Shark",
-      "title": "Shark Matrix™ Plus 2-in-1 Self-Empty Robot Vacuum & Mop (Refurbished) for $134",
-      "summary": "Expires February 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 55% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\n2-in-1 Mop and Vacuum with Better Edge Cleaning and HEPA Base\r\n\n...",
-      "source": "Stacksocial.com",
-      "url": "https://www.stacksocial.com/sales/shark-matrix-plus-2-in-1-self-empty-robot-vacuum-and-mop-refurbished?utm_source=&amp;utm_medium=dealfeed&amp;utm_content=&amp;utm_campaign=shark-matrix-plus-2-in-1-self-empty-robot-vacuum-and-mop-refurbished",
-      "date": "2026-02-17",
-      "image": "https://cdnp0.stackassets.com/c24212c3eed775f7d447379d1c55255df9c8c18c/store/6e37b9a7b7c663c6e0e0baa3d5467aeecb450fb1d392dc65097599895782/sale_329253_primary_image.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Shark",
-      "title": "Shark Matrix UR2360S Self-Emptying Robot Vacuum (Refurbished) for $149",
-      "summary": "Expires February 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 57% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPrecision Cleaning That Tackles Every Corner\r\n\nKeep every corner...",
-      "source": "Stacksocial.com",
-      "url": "https://www.stacksocial.com/sales/shark-matrix-ur2360s-self-emptying-robot-vacuum-refurbished?aid=&amp;utm_campaign=feed&amp;utm_medium=RSS&amp;utm_source=boingboing",
-      "date": "2026-02-17",
-      "image": "https://cdnp3.stackassets.com/4051e3aee9fe6b434031a2aa5761e876bda5cb28/store/e6e8f8e4d3d514f6867c9b63974f681915f4c094bfdeda714662ba3d086e/sale_329252_primary_image.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Shark",
-      "title": "Shark Matrix UR2360S Self-Emptying Robot Vacuum (Refurbished) for $149",
-      "summary": "Expires February 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 57% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPrecision Cleaning That Tackles Every Corner\r\n\nKeep every corner...",
-      "source": "Stacksocial.com",
-      "url": "https://www.stacksocial.com/sales/shark-matrix-ur2360s-self-emptying-robot-vacuum-refurbished?aid=&amp;utm_campaign=feed&amp;utm_medium=RSS&amp;utm_source=geekdad",
-      "date": "2026-02-17",
-      "image": "https://cdnp3.stackassets.com/4051e3aee9fe6b434031a2aa5761e876bda5cb28/store/e6e8f8e4d3d514f6867c9b63974f681915f4c094bfdeda714662ba3d086e/sale_329252_primary_image.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Shark",
-      "title": "Presidents Day 2026 sale: Here are the best deals on home appliances, electronics and more",
-      "summary": "The Amazon Presidents' Day Sale is live, featuring significant price drops on tech, home goods, and appliances. Notable deals include Apple products, Dyson vacuums, and cookware, with some items hitti...",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/presidents-day-2026-sale-here-are-the-best-deals-on-home-appliances-electronics-and-more/articleshow/128425130.cms",
-      "date": "2026-02-16",
-      "image": "https://img.etimg.com/thumb/msid-128425379,width-1200,height-630,imgsize-182776,overlay-economictimes/articleshow.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Shark",
-      "title": "Target Weekly Ad: 2/15-2/21",
-      "summary": "Here is a list of the deals from the new Target weekly ad that will start on Sunday, 2/15. Get 40% off select bedding, 30% off rugs, and more! Gift Card Deals $5 Target Gift Card WYB (2) Select Dry Pe...",
-      "source": "Southernsavers.com",
-      "url": "https://www.southernsavers.com/target-weekly-ad-215-221/",
-      "date": "2026-02-14",
-      "image": "https://www.southernsavers.com/wp-content/uploads/2026/02/target-weekly-ad-1.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Shark",
-      "title": "Shark's PowerDetect Robot Vacuum Is Down to a Record Low, Only for Today",
-      "summary": "Take a wild $470 off the Shark PowerDetect self-emptying robot vacuum, bringing it down to a new record-low price....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/sharks-powerdetect-robot-vacuum-deal/",
-      "date": "2026-02-13",
-      "image": "https://www.cnet.com/a/img/resize/d78b08b5b27df08b1dcbbccd485077a9e39484df/hub/2026/02/13/66ea2caf-a052-4bea-be24-699fd3f4a4ba/shark-powerdetect.png?auto=webp&fit=crop&height=675&width=1200",
+      "title": "2026 Shark Robot Vacuum Guide: Which Model Is Right for You?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PWXE0d1RwamxtTVYxZWlsRUNIbS13Q3BkVXlnbDFBaWNlZkM4ajZYZTh4T3pHc3NpZkJ2d05xeUd5VDUyYnNwWUZyUlNuV0lJZlZrZUNsbC1nT3E0QVFBUVA1cUxMQQ?oc=5\" targe...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PWXE0d1RwamxtTVYxZWlsRUNIbS13Q3BkVXlnbDFBaWNlZkM4ajZYZTh4T3pHc3NpZkJ2d05xeUd5VDUyYnNwWUZyUlNuV0lJZlZrZUNsbC1nT3E0QVFBUVA1cUxMQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-26",
+      "image": "",
       "is_preferred": true
     },
     {
-      "brand": "Narwal",
-      "title": "Man Accidentally Creates Orwellian Nightmare Trying To Clean Room",
-      "summary": "A man who wanted to steer his robot vacuum with a PlayStation controller said he ended up accidentally peering into thousands of strangers' homes....",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/02/24/china-robot-vacuums-dji-robot-vacuums-cameras-microphones-control/",
+      "brand": "Shark",
+      "title": "Amazon Prime Day deals include up to 58 percent off Shark robot vacuums",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZiREdXSVBQRm5qOG5FTzR5MzBtaVc4ekp4SDVvMDRRZjlDRlgtYnp6TW9lUDhBbnVya0M0MkozcVZmdEFENUM5bmNlcVFPd2FGRzY5VjN5SDVEUi1ZVFJjNTBjUzZpUnI5Rl9vYX...",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZiREdXSVBQRm5qOG5FTzR5MzBtaVc4ekp4SDVvMDRRZjlDRlgtYnp6TW9lUDhBbnVya0M0MkozcVZmdEFENUM5bmNlcVFPd2FGRzY5VjN5SDVEUi1ZVFJjNTBjUzZpUnI5Rl9vYXNEMENUdU0zTVYyQ3pyY1A1Q3VNT2dkU3ZrbDlNQ29uYnlGQ0Z3TXM0bDRoMGc0Tk11Rzc4MEdHYjhKeW4tT293NU53YmpBRHJQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-10-08",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Shark",
+      "title": "The top 4 robot vacuums for carpets and rugs in 2026, tested in a 2-cat home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMEo0LVFzR25mT24xWVVjQ3VGNUtTWHltcXZVaG9DSWNJanRIZVdoRkZqQUpTeDJjNlFWYzBWWVhfSHQ3UkFEbWJQVDBFRDJOQTJiZHNiVjBIc241S0E?oc=5\" target=\"_blank\">...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMEo0LVFzR25mT24xWVVjQ3VGNUtTWHltcXZVaG9DSWNJanRIZVdoRkZqQUpTeDJjNlFWYzBWWVhfSHQ3UkFEbWJQVDBFRDJOQTJiZHNiVjBIc241S0E?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-24",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/02/GettyImages-808388400-scaled-e1771959957334.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Narwal",
-      "title": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them",
-      "summary": "Sammy Azdoufal claims he wasn't trying to hack every robot vacuum in the world. He just wanted to remote control his brand-new DJI Romo vacuum with a PS5 gamepad, he tells The Verge, because it sounde...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt",
-      "date": "2026-02-14",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/11_8bdd092c-66b8-4bb0-9ee6-88114e6936cd.webp?quality=90&strip=all&crop=0%2C12.150959860384%2C100%2C75.698080279232&w=1200",
-      "is_preferred": true
-    },
-    {
-      "brand": "Narwal",
-      "title": "I've tested dozens of robot vacuums, and this model has some of the best carpet cleaning I've ever seen",
-      "summary": "The Qrevo Curv 2 Pro is superb carpet cleaner, handing even thick pile with ease...",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/home/robot-vacuums/roborock-qrevo-curv-2-pro-review",
-      "date": "2026-02-09",
-      "image": "https://cdn.mos.cms.futurecdn.net/qzF7hnjCQLA8Tw3NRNgiNc-2560-80.jpg",
-      "is_preferred": true
-    },
-    {
-      "brand": "Narwal",
-      "title": "The Narwal Flow robot vacuum and mop is the cheapest in 2026!",
-      "summary": "The Narwal Flow robot vacuum and mob combo is hard to beat, especially at today's heavily discounted price....",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/narwal-flow-robot-vacuum-and-mop-deal-3638358/",
-      "date": "2026-02-05",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Narwal-Flow-unboxed.jpg",
-      "is_preferred": true
-    },
-    {
-      "brand": "Narwal",
-      "title": "Dyson's new robot vacuum isn't a disaster... but it's hardly a raging success, either",
-      "summary": "While it's a step up on its underwhelming predecessor, Dyson's new bot is not as impressive as it needs to be...",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/home/robot-vacuums/dyson-spot-scrub-ai-review",
-      "date": "2026-02-02",
-      "image": "https://cdn.mos.cms.futurecdn.net/7S3sa3YxMRwg9g8WpErMTU-1920-80.jpg",
-      "is_preferred": true
-    },
-    {
-      "brand": "Narwal",
-      "title": "Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
-      "summary": "In case you missed it, we recently overhauled our guides to the best budget robot vacuums and the best mopping vacs, both of which feature a slate of new picks from Roborock, Narwal, Dreame, and other...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale",
-      "date": "2026-01-30",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Dyson-360-Vis-Nav-Robot-Vacuum-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "is_preferred": true
-    },
-    {
-      "brand": "Narwal",
-      "title": "Hot sale: Two hot Narwal robot vacuum deals for different budgets",
-      "summary": "Narwal makes some of the best robot vacuums, and right now you can catch amazing deals on the Freo Z Ultra and Freo Pro....",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/narwal-freo-z-ultra-freo-pro-deals-3636518/",
-      "date": "2026-01-30",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Narwal-Freo-Pro-on-transition.jpg",
+      "image": "",
       "is_preferred": true
     },
     {
@@ -4053,203 +3983,273 @@
       "is_preferred": false
     },
     {
-      "brand": "iRobot",
-      "title": "An MIT roboticist who cofounded bankrupt robot vacuum maker iRobot says Elon Musk’s vision of humanoid robot assistants is ‘pure fantasy thinking’",
-      "summary": "Rodney Brooks said future “humanoid” robots will have wheels and multiple arms....",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/",
-      "date": "2026-02-25",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-816884748-e1759159588379.jpg?resize=1200,600",
+      "brand": "Narwal",
+      "title": "Narwal Unveils Next-Generation Smart Cleaning Lineup at CES 2026, Headlined by Flagship Flow 2 Robot Vacuum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWZUankxUVlOQlA4THllV1NSYjNBYjNLalllRUV1cTFnYXluQm85by03anpiX3hhVnAzRzlpVHRrSWlXZ3Fxek1rVXhvSEJhOU9OWGJVZWg2ZlFsS0lNUjYwbDMzaWRwb1FNT0sxb1...",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWZUankxUVlOQlA4THllV1NSYjNBYjNLalllRUV1cTFnYXluQm85by03anpiX3hhVnAzRzlpVHRrSWlXZ3Fxek1rVXhvSEJhOU9OWGJVZWg2ZlFsS0lNUjYwbDMzaWRwb1FNT0sxb1BhOVlaRGRyTHRGT1hCbDN6azZoY0pLeUJrYVZTNTN1UU1wTUNNY21uMjlRWXdremdsZjlQak5XdGRrSzY4bmVWZG90dUtLTU5mbzZyMDVUb0ZkUlZ1azR4X2R5ZkxCak1lWjdSUXQ2MFNxdXFVMTQwX3k4QTJIcm0wNmtFWDlKX09QZHFq?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-05",
+      "image": "",
       "is_preferred": false
     },
     {
-      "brand": "iRobot",
-      "title": "An MIT roboticist who cofounded bankrupt robot vacuum maker iRobot says Elon Musk’s vision of humanoid robot assistants is ‘pure fantasy thinking’",
-      "summary": "Rodney Brooks said future “humanoid” robots will have wheels and multiple arms....",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/mit-roboticist-cofounded-bankrupt-robot-192810042.html",
-      "date": "2026-02-25",
-      "image": "https://s.yimg.com/ny/api/res/1.2/C68d4DtA7aIlM2OsDxFlng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/44471ab337d7a291dcac698615eb065a",
-      "is_preferred": false
-    },
-    {
-      "brand": "iRobot",
-      "title": "One man accidentally gained access to thousands of robot vacuums, exposing the AI cyber nightmare risk facing millions of Americans",
-      "summary": "A software engineer wired his vacuum to his video-game controller, but he could soon see inside thousands of living rooms....",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/02/25/who-is-sammy-azdoufal-robot-vacuum-cleaner-access-to-thousands-cyber-ai-agent-risk/",
-      "date": "2026-02-25",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1457927462-e1772039973169.jpg?resize=1200,600",
-      "is_preferred": false
-    },
-    {
-      "brand": "iRobot",
-      "title": "Robo Army: Man Accidentally Takes Control of 6,700+ Robot Vacuums Worldwide While Hacking His Own",
-      "summary": "An AI strategist inadvertently gained control over thousands of internet-connected robot vacuums while attempting to hack his own device to work with a PlayStation controller. The inadvertent hack pro...",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/tech/2026/02/24/robo-army-man-accidentally-takes-control-of-6700-robot-vacuums-worldwide-while-hacking-his-own/",
+      "brand": "Narwal",
+      "title": "Narwal Flow 2 Ultra First Look: 2026 Flagship With AI Navigation and Heated Mopping",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LY2o1aExBSGU1bXYzb3QtMWN4RDg5a2drRk1uZkNUVEF2MmlocW1rRWt0S3NjMHJWZy1EazZmbTNYTUdZVl9GUFV0dDZvamZBZWl4d3o0c0VCSU43SDVISHNMV3c?oc=5\" target=\"...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LY2o1aExBSGU1bXYzb3QtMWN4RDg5a2drRk1uZkNUVEF2MmlocW1rRWt0S3NjMHJWZy1EazZmbTNYTUdZVl9GUFV0dDZvamZBZWl4d3o0c0VCSU43SDVISHNMV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
       "date": "2026-02-24",
-      "image": "https://media.breitbart.com/media/2026/02/DJI-Romo-robot-vacuum-640x335.jpg",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Narwal",
+      "title": "The Best Robot Mop-Vacuum Combos to Keep Floors Sparkling",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1ucHo4QjNJTFJyUGlBVXo4eDhVZHdYQXRYX0ZXWlZIZ29idkxlbTRXQW8zT2FDMERzSHJZNEEta3QyZ25CRlRCemhqS0ZkbUhjcV9Nb3FfZVVreEQxOXR2ckdRbXBKODE2aFh3U19GRG...",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ucHo4QjNJTFJyUGlBVXo4eDhVZHdYQXRYX0ZXWlZIZ29idkxlbTRXQW8zT2FDMERzSHJZNEEta3QyZ25CRlRCemhqS0ZkbUhjcV9Nb3FfZVVreEQxOXR2ckdRbXBKODE2aFh3U19GRGE5YzVXekd0b01Paw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-17",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Narwal",
+      "title": "The 3 Best Narwal Robot Vacuums of 2026, Tested and Reviewed",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9wQnVmcGRZVUhibzZaWVRoTWg1ejFWamFscVQ4ZEZzaUNOWUFKb2FxaHREOGh3R29vNE8wVkY2eVRnRG4wV0NDa1dzVWYyV05xOElFS3JINWFWZ3RjZzdsZ05XcUpwMzZEemt3Z011cX...",
+      "source": "HGTV",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wQnVmcGRZVUhibzZaWVRoTWg1ejFWamFscVQ4ZEZzaUNOWUFKb2FxaHREOGh3R29vNE8wVkY2eVRnRG4wV0NDa1dzVWYyV05xOElFS3JINWFWZ3RjZzdsZ05XcUpwMzZEemt3Z011cXZ6V2JvSGxOX2JWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-09-08",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Narwal",
+      "title": "We Tried It: The Narwal Flow Robot Vacuum & Mop",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFo1MnlSNkx1TDFhRGs3SWxyVVMzTkg0ai05MU5vUXpTbUZUY0dyYWU4b3NZM2hmN3FUV0lwTzlLbVJldHZ2U09hc1NySXltaXh5WThhOG9VdWZIVmQ1MWdJOUh4dEpmQXgxU1VRdF...",
+      "source": "Consumer Reports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFo1MnlSNkx1TDFhRGs3SWxyVVMzTkg0ai05MU5vUXpTbUZUY0dyYWU4b3NZM2hmN3FUV0lwTzlLbVJldHZ2U09hc1NySXltaXh5WThhOG9VdWZIVmQ1MWdJOUh4dEpmQXgxU1VRdFFoNEQtV2RBOHFiaWdzS3IyWFlfVXJBa1lVRmthaS1BV0tIOVJ1Wl8zaUgyM1o3RE9hWDhnM2ozcklHRjFTdkRyckhHcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-08-28",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Narwal",
+      "title": "The Narwal Freo Z10 Is My Little Helper for Cleaning Hard Floors and Rugs Galore",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORFByaDBvejZKZkxOcGZyV0MyQ2xCUFhXdDZYM3NMdkdwWmRuSWQ5UHllVlhjREt3VXdaSV9JNXF3blJXdHRLVnRqUHVIZkVYZkd0SkV6VUU1Q2ZsT2NLb2NIYkZBVUhtWXQ2NnNzd1...",
+      "source": "Architectural Digest",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFByaDBvejZKZkxOcGZyV0MyQ2xCUFhXdDZYM3NMdkdwWmRuSWQ5UHllVlhjREt3VXdaSV9JNXF3blJXdHRLVnRqUHVIZkVYZkd0SkV6VUU1Q2ZsT2NLb2NIYkZBVUhtWXQ2NnNzd1V5NUZKTGlKVFEtS2VZM0pmTnhQVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-05-19",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Narwal",
+      "title": "Flow 2 robot vacuum anchors Narwal's CES 2026 product refresh",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVlKaWtod2M4RmxIemEyemNLczV0VFpIOXZQOWVKNlBWNmFUWmh6YTRONkZ3MEQ5Yk5RX2RubW1lSElfZHBPTTlEVGsyZ1B2NEdWYkpMcDZTUVhNMVBmWVhyZFZMRlVST3lsMkoyaz...",
+      "source": "AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVlKaWtod2M4RmxIemEyemNLczV0VFpIOXZQOWVKNlBWNmFUWmh6YTRONkZ3MEQ5Yk5RX2RubW1lSElfZHBPTTlEVGsyZ1B2NEdWYkpMcDZTUVhNMVBmWVhyZFZMRlVST3lsMkoyazVsUWkxV3pvVVhnZml0MVdQSC1yZ1RlMWdHY0ctTzVZaS1YcWYxaW5XMXRGbFBaN3I2cm5YWjBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-04",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "iRobot",
-      "title": "The Best Furniture For People With Allergies, From an Editor Allergic to Everything",
-      "summary": "Furniture shopping is a major undertaking that needs a considered approach, whether you're looking for a sectional sofa, outdoor furniture, lounge chairs, or couches for a home with pets. But shopping...",
-      "source": "POPSUGAR",
-      "url": "https://www.popsugar.com/home/best-furniture-for-allergies-49472852",
-      "date": "2026-02-23",
-      "image": "https://media1.popsugar-assets.com/files/thumbor/5MmVDNklABlSe7PM20fRPeEiCEc=/0x0:1200x630/fit-in/1200x630/top/filters:format_auto():quality(85):upscale()/2026/02/22/781/n/1922794/7b16dbcd699b40c0aa5356.25542915_.jpg",
+      "title": "Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzNseEdmZzN2WEU4V25rX1RoRFpRcDM2WThNMGswWk5xNHVBTmJaZ2VOeGJaazJHWFQ0T3pCU3pqWUpmWUtrYXd4RU16ZDRicElRUTNvMDYwUmdnNTI2Z05sdkFEVmpkMUlJU1M3Qk...",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzNseEdmZzN2WEU4V25rX1RoRFpRcDM2WThNMGswWk5xNHVBTmJaZ2VOeGJaazJHWFQ0T3pCU3pqWUpmWUtrYXd4RU16ZDRicElRUTNvMDYwUmdnNTI2Z05sdkFEVmpkMUlJU1M3QkMyTmxHa0M2VHI3OFhEZGd5WUgtb3VFODBWWExocVJaX1VCRkduNFdfWUhUbXozNmNFWHAzQi16akRSOEtDa3RrYkxvcnhjRDFmZkthRXZzbFJNMzFLdnNQVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-25",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "iRobot",
-      "title": "Let This $250 Roomba Vacuum and Mop While You Do Literally Anything Else",
-      "summary": "The Roomba 104 combo vacuums, mops and empties itself. It's currently $70 off....",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/irobot-roomba-104-vacuum-and-mop-deal/",
-      "date": "2026-02-23",
-      "image": "https://www.cnet.com/a/img/resize/f963828a1e69e60e258031591d865a4160c84e1b/hub/2026/02/23/6bfa6deb-fffa-4fe8-8790-7b9d12e948b8/roomba-104-with-self-emtpying-dock.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Today’s Deal Wipes $110 Off the iRobot Roomba Vacuum and Mop Combo at Walmart",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWxtcGpzaFFCZUxDQXZHUzFtWFU1djFSOGdQb0JacmRtREJwQUJydUVkalI5UU9GVnVyTHpHVXNDbTktMzNhN2lyeVNVYVhvVi1tMC1JVVNfOE1JVGotcjdJN1hoZV9INFZUdDdWek...",
+      "source": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWxtcGpzaFFCZUxDQXZHUzFtWFU1djFSOGdQb0JacmRtREJwQUJydUVkalI5UU9GVnVyTHpHVXNDbTktMzNhN2lyeVNVYVhvVi1tMC1JVVNfOE1JVGotcjdJN1hoZV9INFZUdDdWektTaW45WS1KV0dfZlQyejd0Z1Y3a0ZiVldoUDY5YXdvcmlValU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-27",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "iRobot",
-      "title": "iRobot Roomba Combo j5+ 2-in-1 Robot Vacuum & Mop for $150 + free shipping w/ Prime",
-      "summary": "It's the best deal we've seen for the iRobot Roomba Combo j5+ and a low now by $105. Buy Now at Woot! An Amazon Company \r\n Features\r\n <ul> <li>app control with customizable No Mop Zones</li> <li>enclo...",
-      "source": "Dealnews.com",
-      "url": "https://www.dealnews.com/products/iRobot/iRobot-Roomba-Combo-j5-2-in-1-Robot-Vacuum-Mop/497138.html",
-      "date": "2026-02-20",
-      "image": "https://www.datocms-assets.com/64599/1766674189-irobot-robotic-vacuum-cleaner-docking-jhln.jpeg?h=441&w=588",
-      "is_preferred": false
-    },
-    {
-      "brand": "iRobot",
-      "title": "What to expect next for your Roomba (and its data) now that iRobot’s been sold",
-      "summary": "iRobot has revealed the creation of a new US-controlled iRobot Safe spin-off to steward ownership of Roomba user data....",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/roomba-data-3640943/",
-      "date": "2026-02-13",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/iRobot-Roomba-205.jpg",
+      "title": "Roomba 105 Vac Review: iRobot’s Cheapest Self-emptying Robot Vacuum in 2025",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTGZvTzhJaU0zM0tHbzRqV1RSZkZjN09sMzBwRzduQnk2QzFmeHNjWHdKTmIwMS1IclQweF9zaFhLSnZWYjZmYkJOeFd4ZzhuVFpwWlN6MDBUMm1WbWR6Q3paMHZ2dTlxRk9hSDhtUm...",
+      "source": "Vacuum Wars",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGZvTzhJaU0zM0tHbzRqV1RSZkZjN09sMzBwRzduQnk2QzFmeHNjWHdKTmIwMS1IclQweF9zaFhLSnZWYjZmYkJOeFd4ZzhuVFpwWlN6MDBUMm1WbWR6Q3paMHZ2dTlxRk9hSDhtUmpZUUZjWnJEeUl4eHZVUkV0VFF4RmdReC1CNlJqZ1NELXkwTUN4RHlNV19XdFRXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-25",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "iRobot",
-      "title": "iRobot’s Roombas have a new Chinese owner, but it says your data will remain in the US",
-      "summary": "As part of its acquisition by China-based Picea Robotics, iRobot is creating a new US-based subsidiary called iRobot Safe, which the company says will be \"responsible for the protection of US consumer...",
+      "title": "What the iRobot bankruptcy means for Roomba owners",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjg0X3JHVEFHbWVneG1qQWw3VUluU3RST3FmMEMyMnFmQktGaFVLU1Z1RGh6V2NaV1ZHWHhoYXNSVG54bkRseklBM3FyTHBtNlBqclhYSjZ0ZFVZajROejhkbzhjRUszblFzdGd6Q0...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjg0X3JHVEFHbWVneG1qQWw3VUluU3RST3FmMEMyMnFmQktGaFVLU1Z1RGh6V2NaV1ZHWHhoYXNSVG54bkRseklBM3FyTHBtNlBqclhYSjZ0ZFVZajROejhkbzhjRUszblFzdGd6Q0ZIQzJQOHZ1b01PR2VVV3JLLVJXYzR2WGxZS1dzLW1ndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-22",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "iRobot",
+      "title": "DIY hack exposes massive flaw in DJI Romo vacuums",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNG5NTjlkaThTREFJU0pyZk5NM0pOWHNjSkY3cTVhVEFmdzF6LURWSy1IdmFxcEtBc3pUM0p4dDc3VEVyOHA4MlBVUEtSaUtmYWswSXdtLVhhRE1EQjRrcnEtNDFJYXFnUENMWXN4MG...",
+      "source": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNG5NTjlkaThTREFJU0pyZk5NM0pOWHNjSkY3cTVhVEFmdzF6LURWSy1IdmFxcEtBc3pUM0p4dDc3VEVyOHA4MlBVUEtSaUtmYWswSXdtLVhhRE1EQjRrcnEtNDFJYXFnUENMWXN4MG1kNXNVWmJJb2k1ZE9mZ0p3bWpxZDJRMGF6c18yUGlmb0tQaDNjYWlBbmc4ZEtPUXRYYi1zc1A1NUYzM3Fob0kyNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-26",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "iRobot",
+      "title": "Amazon's quietly slashed robot vacuum prices on iRobot, Shark, Lefant and more by up to 65%",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3VpdUYxb1VkUzFIYnQxUTUydnNoZ2R2WWhjZWtVa3lPaFM2RE1TMWtacmtSN24wem9jTmxmQlNhZ185WjY0STlENjYtaUlVNDhGa0gxRENObl84enk0QWJ1S2ZPZlJ6R1dpLXcwek...",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3VpdUYxb1VkUzFIYnQxUTUydnNoZ2R2WWhjZWtVa3lPaFM2RE1TMWtacmtSN24wem9jTmxmQlNhZ185WjY0STlENjYtaUlVNDhGa0gxRENObl84enk0QWJ1S2ZPZlJ6R1dpLXcwekxsOHhWaTA0cm5kV1M4eTAyRVFxaGM3MUI2OU1peHkxVndlcXdrazI5QVBhc0p1UGF3ZGpNc1FZY3NHdjFhZzhwcXdZT1h6WHdjNWdGUFphcC11ZXpOY1JJYi1xSTUxN0Fqb2Y2TnoxN25MNlc5cVluSEFabTBjZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-17",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "iRobot",
+      "title": "Roomba vacuum cleaner firm iRobot files for bankruptcy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE90d3gyZGFzZm9ucURqSkNoVzY2dTBiZTloNURHdGhJc2dLT1htOXc3NEx4b2Y4WlJGc0stUzU0eURDNUp3dGlZd3hTbnBWRllEaThnRUFrTUUwQQ?oc=5\" target=\"_blank\">Roomb...",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90d3gyZGFzZm9ucURqSkNoVzY2dTBiZTloNURHdGhJc2dLT1htOXc3NEx4b2Y4WlJGc0stUzU0eURDNUp3dGlZd3hTbnBWRllEaThnRUFrTUUwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-14",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "iRobot",
+      "title": "Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSWNEb1FSaVBFbVV2ZGdMX1M1NFJMWV9oa1YyUG45Qmc1emNpNnVFeUVhZWtrdnhYSGlzcFpmMTZreTUtZ21CemgyVklOTzdKVmlUU0ZIcDBsQU1jdGdXeHpyejhxWmZBYVJPWklsTE...",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSWNEb1FSaVBFbVV2ZGdMX1M1NFJMWV9oa1YyUG45Qmc1emNpNnVFeUVhZWtrdnhYSGlzcFpmMTZreTUtZ21CemgyVklOTzdKVmlUU0ZIcDBsQU1jdGdXeHpyejhxWmZBYVJPWklsTEpQdjZrZm9DT0ZJcjZEQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-15",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "iRobot",
+      "title": "Roomba-maker iRobot files for bankruptcy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnZFaEpTcmkwY2NKamNIcDF4SjdDaHZCdXJvRUxxeVRYOGhYOHA1c05WdEh1UE1lMmx1SnNpUWwyR295Njc0WkJMbG0zTFFNSGdieUNWS1k5NXljb3VTVjRuUGN2aDJsVHVmR2lNdF...",
+      "source": "Morning Brew",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnZFaEpTcmkwY2NKamNIcDF4SjdDaHZCdXJvRUxxeVRYOGhYOHA1c05WdEh1UE1lMmx1SnNpUWwyR295Njc0WkJMbG0zTFFNSGdieUNWS1k5NXljb3VTVjRuUGN2aDJsVHVmR2lNdFJEU19icWVoWjh5a2VqdFhWakN3TFJTNzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-15",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "iRobot",
+      "title": "Get 40 percent off this Roomba robot vacuum for Prime Day",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQajZDOUdFYTJkSFAzQVlkc0JHdFl1aFBkVUV2NHUwMkdxc3NYakdRZnpIcFpoakRHdjJ6cE9BVVFIVE5QY2ZqXzFHN1MtcWJxN3lyUXVIQzlzTDI0YnVQOHNQU1RhZXotRDY0SHVpZk...",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajZDOUdFYTJkSFAzQVlkc0JHdFl1aFBkVUV2NHUwMkdxc3NYakdRZnpIcFpoakRHdjJ6cE9BVVFIVE5QY2ZqXzFHN1MtcWJxN3lyUXVIQzlzTDI0YnVQOHNQU1RhZXotRDY0SHVpZkdNSVlpeXdUSnZOcjFtbzdHTnNFV1FFWWFoS1JKSjV6QzRfUnV0OWtTV0x0NzdoTVRWcml5ZVpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-10-08",
+      "image": "",
+      "is_preferred": true
+    },
+    {
+      "brand": "Dyson",
+      "title": "Highly rated vacuums: Shark, Dyson, Bissell and more",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzlZMXdEZ0FkUkFyUUhUOFViZkxfOEFNeUtGZGNSYV81bFRHdW9zOXVwaUE0Rzloc1RlQ1VSdFZoUnltVVFKb3FjRnR1WlRWYVJ1dW1hSjlZS0dROUlLekxjbHlPOC15ZEs2YzBXS3...",
+      "source": "ABC News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzlZMXdEZ0FkUkFyUUhUOFViZkxfOEFNeUtGZGNSYV81bFRHdW9zOXVwaUE0Rzloc1RlQ1VSdFZoUnltVVFKb3FjRnR1WlRWYVJ1dW1hSjlZS0dROUlLekxjbHlPOC15ZEs2YzBXS3VJb043N2hsYTFtWnl2by0xMFRzdEctelFrMWFXX2FCaXNmQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-26",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dyson",
+      "title": "Dyson robot vacuum uses edge AI vision",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5lUkR6cDg1ajltNmxtdzM3ekRvRkxMTEhkQVF4azJVTVNpOGV1Y19lN3o0cmdiSS0yXy1ud2NXb0xzcDE1N0RtdDNuVXY0dFJNbmE2N2NwTnp3Rm9VUVVNUnREQzA0cGdpeDNuQlRzOV...",
+      "source": "Imaging and Machine Vision Europe",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lUkR6cDg1ajltNmxtdzM3ekRvRkxMTEhkQVF4azJVTVNpOGV1Y19lN3o0cmdiSS0yXy1ud2NXb0xzcDE1N0RtdDNuVXY0dFJNbmE2N2NwTnp3Rm9VUVVNUnREQzA0cGdpeDNuQlRzOVNGM1BEREROX05oam4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-23",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dyson",
+      "title": "This high-tech Dyson vacuum is on sale for its Black Friday price — and selling out quickly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjltQmRMc1pjOXdXWWtwX2R4OWEwTEktYWlXU1I3ckZZSUFkQmhUc3hWb3RuWUdTUTZnUHpsd3FoZXdyWWFjYUhSdkNsTkdya2xFLTlqSlY0X0oxWGFiTkZyME9YcnMtR0prLW10VT...",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjltQmRMc1pjOXdXWWtwX2R4OWEwTEktYWlXU1I3ckZZSUFkQmhUc3hWb3RuWUdTUTZnUHpsd3FoZXdyWWFjYUhSdkNsTkdya2xFLTlqSlY0X0oxWGFiTkZyME9YcnMtR0prLW10VTJ4TGpCeGVzNEthdTA3bVpKLXY1MjlvNXBBU3VKY2FIMEhYeGdjejNuTEZ2LTB3TTBJN3h2RTV5QWVPMGlWUzRJc01tNkFZandEcURjRDFaNzZyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-03-01",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dyson",
+      "title": "Dyson has reinvented the robot vacuum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaW8tUThxSUxPM3hpcmN4aHRGcS1JWEdkVE1HYjJ3OVNzZEZEcEVyOW1jUHZSNWp6Mno5S29KcTBQQnpUcUVHUW9oSC1zalJSS2pySFFQcU5VWU4tTVdKT1lKc0tKMFBLSlkyVVJ4aD...",
+      "source": "Woman & Home",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaW8tUThxSUxPM3hpcmN4aHRGcS1JWEdkVE1HYjJ3OVNzZEZEcEVyOW1jUHZSNWp6Mno5S29KcTBQQnpUcUVHUW9oSC1zalJSS2pySFFQcU5VWU4tTVdKT1lKc0tKMFBLSlkyVVJ4aDVnQjhkUEZGZGZWX2RXa3hUd0xVTU1FeW51M2YyWHBHcHlpMm9sWXliNG5veUFEcnNSejZVTzJhMXVCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-09",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dyson",
+      "title": "Wait, Why is the Dyson Robot Vacuum Only $350 Right Now?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFNbVhnZDg3WURSbVlpcFhPdVgxQTBhUHU2cnUwVl8tNHhVY0d0YmJ5RGJOU3lib0JTUEYzYjJZcGZqb09XVFA2aEdGOFdDa0xOMUcxUE9Ba2dwdW5ZTzliRVN3QlpJTDRBWmtBT1...",
+      "source": "Esquire",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFNbVhnZDg3WURSbVlpcFhPdVgxQTBhUHU2cnUwVl8tNHhVY0d0YmJ5RGJOU3lib0JTUEYzYjJZcGZqb09XVFA2aEdGOFdDa0xOMUcxUE9Ba2dwdW5ZTzliRVN3QlpJTDRBWmtBT1BIZjVHNWF0VXFHM3pFNDVjMnlhR21vbHNMOHVGM3RXa1FDejE3eWl5RnZvQ0VIdUJ4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-12-11",
+      "image": "",
+      "is_preferred": false
+    },
+    {
+      "brand": "Dyson",
+      "title": "Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUmZHcUJ0OHFOZ1FMRDJMZ0dEbE5lZnBHR05UcVdCS0phMFF0eXJkRUlSN3ZEcXZBWm5odmdSVlVjUzgtSDY1eERMV3F4cTM0azdIQ0YzUFdfUW9OeGw5bWRWTHJqbllEWjg0cjFxLX...",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/878809/irobot-picea-robotics-acquisition-irobot-safe",
-      "date": "2026-02-13",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24241346/226425_Roomba_Combo_Review_JTuohy_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "is_preferred": true
-    },
-    {
-      "brand": "iRobot",
-      "title": "The iRobot takeover is complete – but it looks like the Roomba brand is clinging on to its US roots",
-      "summary": "Roomba's parent brand might have a new Chinese owner, but it's still a 'US-based global consumer robotics company'....",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/home/robot-vacuums/the-irobot-takeover-is-complete-but-it-looks-like-the-roomba-brand-is-clinging-on-to-its-us-roots",
-      "date": "2026-02-12",
-      "image": "https://cdn.mos.cms.futurecdn.net/P8yvaSsBusxZJcnf8dVkic-1920-80.jpg",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmZHcUJ0OHFOZ1FMRDJMZ0dEbE5lZnBHR05UcVdCS0phMFF0eXJkRUlSN3ZEcXZBWm5odmdSVlVjUzgtSDY1eERMV3F4cTM0azdIQ0YzUFdfUW9OeGw5bWRWTHJqbllEWjg0cjFxLXllcUszQUlCZ0tjejBCaVJLM0Fxak1KOEI2MlU4clY4dG56cGNzblZibzZ1NmVCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-01-30",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "Dyson",
-      "title": "A step-by-step guide to shopping for refurbished tech on eBay",
-      "summary": "Shopping used and refurbished is a great way to save money on big ticket tech items like vacuums and headphones. Here’s how to navigate shopping refurbished on eBay, including the different types of r...",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/select/shopping/ebay-refurbished-buying-guide-rcna259898",
-      "date": "2026-02-20",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260217-refurbished-tech-on-ebay-ac-main-e57b8a.jpg",
+      "title": "Dyson is offering $600 off its new high-tech robot vacuum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOX1BRdnU4LUdUbUZmcUoyNXlfZVpXQU9OVDIyN3huMWpjdjRLT2ZTcWFSNGJ3bGtmNWVJRVBLMFdMWkdyMkZnT3BadUN0TTNkbm9WaDhzU01iRWVWSER0N0xFbzJCWnlKR0g4dG1VT3...",
+      "source": "AL.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1BRdnU4LUdUbUZmcUoyNXlfZVpXQU9OVDIyN3huMWpjdjRLT2ZTcWFSNGJ3bGtmNWVJRVBLMFdMWkdyMkZnT3BadUN0TTNkbm9WaDhzU01iRWVWSER0N0xFbzJCWnlKR0g4dG1VT3Q0ak1lQW9CZWJ3cHlObDkyc3FvRFpMWENKZEh4eHNGbzZnOVVhRjBuN2pqb0hWd9IBsgFBVV95cUxQYjk0WWdaUVpXdk1jYzZIY1BTVnpaQmFwbGFJR052SkhIMFMyNVF6UzFvbmNVSkVRX3h4SGg5S1ZfODJ3QjlOQ2xfLTRBUVJ3V3dPZzZDZFNXUkNWLTdLUWhCcWQ1bUlRSUFLZ0JKNmpJd1VlX1ZtbDF4T0VKUEdsaFRUUTl5dzhXam04N2NLNUFnUW1LOVZadlpvM0ktY2pvdk93SHlrdWpQT2Y5WFd5NDln?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-11-18",
+      "image": "",
       "is_preferred": false
     },
     {
       "brand": "Dyson",
-      "title": "Dyson PencilWash: a tiny cleaner that could actually make a big difference",
-      "summary": "I didn’t think I needed another floor cleaner in my life. Between a stick vacuum, a robot vacuum, a mop, and the occasional paper towel run after someone spills juice (hi, kids), I’ve felt pretty cove...",
-      "source": "Gadget Flow",
-      "url": "https://thegadgetflow.com/blog/dyson-pencilwash-review/",
-      "date": "2026-02-20",
-      "image": "https://thegadgetflow.com/wp-content/uploads/2026/02/Dyson-PencilWash-01.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dyson",
-      "title": "My clothes dryer works so much better now, thanks to this $9 gadget",
-      "summary": "Our dryer now runs like new due to this low-cost solution....",
-      "source": "MakeUseOf",
-      "url": "https://www.makeuseof.com/clothes-dryer-works-better-thanks-to-cheap-gadget/",
-      "date": "2026-02-19",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/whirlpool-dryer-door-open.jpg?w=1600&h=900&fit=crop",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dyson",
-      "title": "Open-box Bobsweep Bio Self-Emptying Robot Vacuum for $227 + free shipping",
-      "summary": "Use promo code \"VIPSAVE10OFF\" to get this price. It's the best deal we could find by $43. Buy Now at eBay...",
-      "source": "Dealnews.com",
-      "url": "https://www.dealnews.com/Open-box-Bobsweep-Bio-Self-Emptying-Robot-Vacuum-for-227-free-shipping/21811334.html",
-      "date": "2026-02-19",
-      "image": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/cms/mespvbpzyyhhdlvyatdl.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dyson",
-      "title": "This powerful and lightweight Dyson vacuum is now a massive $300 off at Walmart",
-      "summary": "The Dyson V9 is an ideal entry to the Dyson vacuum world, especially now it's on sale at 50% off at Walmart — here's why I think it's a good purchase....",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/home/vacuums/this-powerful-and-lightweight-dyson-vacuum-is-now-a-massive-usd300-off-at-walmart",
-      "date": "2026-02-18",
-      "image": "https://cdn.mos.cms.futurecdn.net/ixEaqWBJckQhUYcL5WszPB-1920-80.jpg",
+      "title": "A Squeaky Clean Deal: This Dyson Cordless Vacuum Is 50% Off at Walmart",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHRlaklvTmpzNEY3MlE4QzRPZHBFTlEyd3hnOHg1Nl9uaWF6a0pzTnJLSTVnUnA1emNtUkNjUHN3YzU2eC1UUVFJN05IRnI0a0ljeVlfXzkwRVhRSFpQTVI4TzhBV2JRLVNBeTJLcj...",
+      "source": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHRlaklvTmpzNEY3MlE4QzRPZHBFTlEyd3hnOHg1Nl9uaWF6a0pzTnJLSTVnUnA1emNtUkNjUHN3YzU2eC1UUVFJN05IRnI0a0ljeVlfXzkwRVhRSFpQTVI4TzhBV2JRLVNBeTJLcjRvajQwQ3BvYTgtQlVLblFFTXVYaklqOHlvRzJaSzFXZnZfZUdEekEwUU8yMDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2026-02-26",
+      "image": "",
       "is_preferred": true
     },
     {
       "brand": "Dyson",
-      "title": "This $30 solution helped my robot vacuum finally get over my floor transition",
-      "summary": "This low-cost fix was all my robot vacuum needed to overcome a tall threshold....",
-      "source": "MakeUseOf",
-      "url": "https://www.makeuseof.com/solution-robot-vacuum-high-floor-transition/",
-      "date": "2026-02-18",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/eufy-x10-omni-next-to-tall-floor-transition-home-gym.jpg?w=1600&h=900&fit=crop",
-      "is_preferred": false
+      "title": "The new Dyson robot vacuum sounds infinitely better than the last one. But how much will it cost?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWTJXNVFXXzJuYVowRDQydXp1cGVId0FMbnJXVzBkWHR5YVRVa2RYR0YxNk9rR0E4VFNoUG1MTEJLZEhfYmZwNmhmMndDbGRSenZlTzJfYU1BanBQX2ZUNmZxbFRINkkzRTUxSEQ4Z2...",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWTJXNVFXXzJuYVowRDQydXp1cGVId0FMbnJXVzBkWHR5YVRVa2RYR0YxNk9rR0E4VFNoUG1MTEJLZEhfYmZwNmhmMndDbGRSenZlTzJfYU1BanBQX2ZUNmZxbFRINkkzRTUxSEQ4Z2FaYzR1LTVWemdOZHhzcUVzWEJ4MWE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-09-05",
+      "image": "",
+      "is_preferred": true
     },
     {
       "brand": "Dyson",
-      "title": "Best vacuum cleaner",
-      "summary": "Vacuum cleaners have progressed leaps and bounds in terms of intuitive design, suction power and multipurpose use....",
-      "source": "The Denver Post",
-      "url": "https://www.denverpost.com/2026/02/17/best-vacuum-cleaner/",
-      "date": "2026-02-18",
-      "image": "https://www.denverpost.com/wp-content/uploads/2026/02/best-vacuum-cleaner.jpg?w=1024&h=576",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dyson",
-      "title": "Presidents Day 2026 sale: Here are the best deals on home appliances, electronics and more",
-      "summary": "The Amazon Presidents' Day Sale is live, featuring significant price drops on tech, home goods, and appliances. Notable deals include Apple products, Dyson vacuums, and cookware, with some items hitti...",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/presidents-day-2026-sale-here-are-the-best-deals-on-home-appliances-electronics-and-more/articleshow/128425130.cms",
-      "date": "2026-02-16",
-      "image": "https://img.etimg.com/thumb/msid-128425379,width-1200,height-630,imgsize-182776,overlay-economictimes/articleshow.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dyson",
-      "title": "Target Weekly Ad: 2/15-2/21",
-      "summary": "Here is a list of the deals from the new Target weekly ad that will start on Sunday, 2/15. Get 40% off select bedding, 30% off rugs, and more! Gift Card Deals $5 Target Gift Card WYB (2) Select Dry Pe...",
-      "source": "Southernsavers.com",
-      "url": "https://www.southernsavers.com/target-weekly-ad-215-221/",
-      "date": "2026-02-14",
-      "image": "https://www.southernsavers.com/wp-content/uploads/2026/02/target-weekly-ad-1.jpg",
-      "is_preferred": false
-    },
-    {
-      "brand": "Dyson",
-      "title": "How the Reviews team tests home and kitchen products at Business Insider",
-      "summary": "Our Reviews team rigorously tests home and kitchen products for performance, durability, and value to provide transparent, trustworthy recommendations....",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/guides/home/how-we-test-home-kitchen-products",
-      "date": "2026-02-13",
-      "image": "https://i.insider.com/698e45edd3c7faef0ece31bb?width=1200&format=jpeg",
+      "title": "Which Is Better: The Dyson Vis Nav 360 vs. the Roomba 205",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3RZZjJGSmYzLVlZN0J5VnAzOThrckN1RnN1Q2N4ZnhWRmtWNmpNWjdlOTFGVWtBaWZVbFhfNWR5TDJzVzRQTDZESzFyY0dHMVAxaWoySE8zYVhMaV9LS0JmRzZuel9RQk1HTDdvRj...",
+      "source": "Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3RZZjJGSmYzLVlZN0J5VnAzOThrckN1RnN1Q2N4ZnhWRmtWNmpNWjdlOTFGVWtBaWZVbFhfNWR5TDJzVzRQTDZESzFyY0dHMVAxaWoySE8zYVhMaV9LS0JmRzZuel9RQk1HTDdvRjA3R2ZVa05ESnE3VG9vOGtRaTlFZW0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "date": "2025-05-29",
+      "image": "",
       "is_preferred": false
     }
   ],
@@ -4265,10 +4265,10 @@
     "priceHistoryModel": "Realistic simulation based on current prices + market patterns",
     "priceForecastModel": "AI: Linear Regression + Moving Average + Seasonality",
     "forecastConfidence": "Medium (based on 30-day historical patterns)",
-    "lastVerified": "2026-02-28T02:05:59.735449",
+    "lastVerified": "2026-03-01T02:35:45.110770",
     "data_sources": {
       "news": "Auto-crawled from Google News RSS"
     }
   },
-  "last_update": "2026-02-28T02:06:19.904749"
+  "last_update": "2026-03-01T02:36:19.196493"
 }
